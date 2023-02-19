@@ -7,13 +7,56 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://JellyfishZero.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>關於我</title>
-        <link>https://JellyfishZero.github.io/%E9%97%9C%E6%96%BC%E6%88%91/</link>
+        <title>站長介紹</title>
+        <link>https://JellyfishZero.github.io/%E7%AB%99%E9%95%B7%E4%BB%8B%E7%B4%B9/</link>
         <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://JellyfishZero.github.io/%E9%97%9C%E6%96%BC%E6%88%91/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+        <guid>https://JellyfishZero.github.io/%E7%AB%99%E9%95%B7%E4%BB%8B%E7%B4%B9/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://JellyfishZero.github.io/%E7%AB%99%E9%95%B7%E4%BB%8B%E7%B4%B9/myselfre.jpg&#34;
+	width=&#34;627&#34;
+	height=&#34;418&#34;
+	srcset=&#34;https://JellyfishZero.github.io/%E7%AB%99%E9%95%B7%E4%BB%8B%E7%B4%B9/myselfre_hu00eb2ba46857751bf1f7701e7d79dcd2_56013_480x0_resize_q75_box.jpg 480w, https://JellyfishZero.github.io/%E7%AB%99%E9%95%B7%E4%BB%8B%E7%B4%B9/myselfre_hu00eb2ba46857751bf1f7701e7d79dcd2_56013_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;150&#34;
+		data-flex-basis=&#34;360px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;關於我袁子凡&#34;&gt;關於我－－「袁子凡」&lt;/h2&gt;
+&lt;p&gt;　　哈囉！我是子凡，我是個有著多元的興趣與嗜好的資管人，例如：&lt;code&gt;棒球、動漫、鋼琴、繪圖或文章創作&lt;/code&gt;等等都略有涉獵。目前自己比較擅長的領域是程式設計，主要以&lt;code&gt;C++、C#&lt;/code&gt;為我較有信心、較擅長的程式語言，此外也在學業生涯中學習過&lt;code&gt;python、java&lt;/code&gt;等程式語言，亦有其相對應的作品。&lt;/p&gt;
+&lt;p&gt;　　而&lt;code&gt;電玩&lt;/code&gt;，是目前我人生中最大的興趣，我認為自己是一個對電玩充滿了熱情與執著的人。不單只是喜歡玩，更是對於遊戲製作更是充滿熱情！小時候受到&lt;code&gt;RPG Maker 2000&lt;/code&gt;的啟蒙，對遊戲製作產生興趣並學習到簡單的技巧與邏輯。而使用&lt;code&gt;RPG Maker 2000&lt;/code&gt;製作遊戲的興趣也保持到了大學。如本段落下方的影片，便是我以大學同學們和自己為題材製作的一部中二感十足的RPG。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;影片：蕙蘭樓C棟304傳說劇情片段&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/h80XUdN3gWk&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;歷程經驗&#34;&gt;歷程經驗&lt;/h2&gt;
+&lt;!-- Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+
+Hugo makes use of a variety of open source projects including:
+
+* https://github.com/yuin/goldmark
+* https://github.com/alecthomas/chroma
+* https://github.com/muesli/smartcrop
+* https://github.com/spf13/cobra
+* https://github.com/spf13/viper
+
+Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+
+Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+
+Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+
+Learn more and contribute on [GitHub](https://github.com/gohugoio). --&gt;
 </description>
         </item>
         <item>
@@ -38,9 +81,23 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://JellyfishZero.github.io/%E9%80%A3%E7%B5%90%E5%8D%80/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
+        <description>&lt;!-- To use this feature, add `links` section to frontmatter.
+
+This page&#39;s frontmatter:
+
+```yaml
+links:
+  - title: GitHub
+    description: GitHub is the world&#39;s largest software development platform.
+    website: https://github.com
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: TypeScript
+    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+    website: https://www.typescriptlang.org
+    image: ts-logo-128.jpg
+```
+
+`image` field accepts both local and external images. --&gt;</description>
         </item>
         
     </channel>
