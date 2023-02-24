@@ -41,7 +41,32 @@
 
 &lt;p&gt;　　我的大學時期，就讀&lt;code&gt;國立屏東大學資訊管理學系&lt;/code&gt;，在大學期間我獲得了進一步學習程式語言的機會，並且深入地了解資訊管理系未來的相關工作內容之後，我決定正視自己真正的志向和興趣，也就是「&lt;code&gt;遊戲製作&lt;/code&gt;」。為獲得大學期間缺少的數位內容、遊戲開發等相關知識，並獲得更多的學習相關技術的時間。因此在考研究所的時候，我選擇就讀含有數位內容、遊戲設計相關課程的「&lt;code&gt;彰師大資管系數位內容科技與管理組&lt;/code&gt;」。&lt;/p&gt;
 &lt;p&gt;　　整個研究所期間，我深知自己的遊戲開發歷程相較於原先便就讀遊戲設計相關科系的學生來得短少，但我依然竭盡所能、充分利用課餘時間透過Hahow、Yotta、Udemy等線上課程平台進行相關知識的快速補充，除了這些付費的學習平台外，我也會利用Google、Youtube、各個軟體的Documentation、論壇等網站平台針對特定的知識點進行學習，藉由這樣的學習方式讓自己能有效率的學習相關的知識。&lt;/p&gt;
-&lt;p&gt;　　在研究所期間我的兩個主要的遊戲作品用於論文的發表，我利用&lt;code&gt;Unreal Engine 4&lt;/code&gt;開發了一款&lt;code&gt;VR結合眼動儀的棒球打擊練習程式&lt;/code&gt;，並以此發表了一篇研討會論文(2022 IIDCI 跨域創新國際設計研討會)，探討棒球打擊者靜眼凝視時間與擊球命中率的關係；而碩士論文，則是以實驗室學長先前使用&lt;code&gt;Unity&lt;/code&gt;製作的&lt;code&gt;VR懷舊體驗&lt;/code&gt;作品為基礎進行修改，用以調查適合失智症患者的虛擬實境設計模式。&lt;/p&gt;
+&lt;p&gt;　　在研究所期間我的兩個主要的遊戲作品用於論文的發表，我利用&lt;code&gt;Unreal Engine 4&lt;/code&gt;開發了一款&lt;code&gt;VR結合眼動儀的棒球打擊練習程式&lt;/code&gt;，並以此發表了一篇研討會論文（2022 IIDCI 跨域創新國際設計研討會），探討棒球打擊者靜眼凝視時間與擊球命中率的關係；而碩士論文，則是以實驗室學長先前使用&lt;code&gt;Unity&lt;/code&gt;製作的&lt;code&gt;VR懷舊體驗&lt;/code&gt;作品為基礎進行修改，用以調查適合失智症患者的虛擬實境設計模式（&lt;a class=&#34;link&#34; href=&#34;https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&amp;amp;s=id=%22110NCUE0620009%22.&amp;amp;searchmode=basic&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;臺灣碩博士論文加值系統&lt;/a&gt;）。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;影片：VR結合眼動儀的棒球打擊練習程式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/PmhTlCI3eKs&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;影片：VR懷舊體驗模式比較影片&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/8EYWCdEolic&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;p&gt;　　雖然我在遊戲開發的經驗僅僅只有研究所至今，約兩年多，無較大型的作品，但對於以下軟體都有具備相關的經驗，並且我仍持續學習與進步當中：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;遊戲引擎
@@ -64,6 +89,7 @@
 &lt;p&gt;　　如果對於我的為人，有好奇之處，也可以利用本頁面下方留言詢問喔～&lt;br /&gt;
 　　我為人很大方的，不要太怪的問題我都會回答的！&amp;lt;3&lt;/p&gt;
 &lt;h2 id=&#34;歷程經驗&#34;&gt;歷程經驗&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;待更新...&lt;/code&gt;&lt;/p&gt;
 &lt;!-- Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
 Hugo makes use of a variety of open source projects including:
