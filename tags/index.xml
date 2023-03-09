@@ -5,6 +5,47 @@
         <link>https://JellyfishZero.github.io/tags/</link>
         <description>Recent content in Tags on 海蜇零的水缸</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-tw</language><atom:link href="https://JellyfishZero.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-tw</language>
+        <lastBuildDate>Fri, 10 Mar 2023 01:55:12 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>C#</title>
+        <link>https://JellyfishZero.github.io/tags/c#/</link>
+        <pubDate>Fri, 10 Mar 2023 01:55:12 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/tags/c#/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Windows Form</title>
+        <link>https://JellyfishZero.github.io/tags/windows-form/</link>
+        <pubDate>Fri, 10 Mar 2023 01:55:12 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/tags/windows-form/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>寵物機</title>
+        <link>https://JellyfishZero.github.io/tags/%E5%AF%B5%E7%89%A9%E6%A9%9F/</link>
+        <pubDate>Fri, 10 Mar 2023 01:55:12 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/tags/%E5%AF%B5%E7%89%A9%E6%A9%9F/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>小遊戲</title>
+        <link>https://JellyfishZero.github.io/tags/%E5%B0%8F%E9%81%8A%E6%88%B2/</link>
+        <pubDate>Fri, 10 Mar 2023 01:55:12 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/tags/%E5%B0%8F%E9%81%8A%E6%88%B2/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>資料庫</title>
+        <link>https://JellyfishZero.github.io/tags/%E8%B3%87%E6%96%99%E5%BA%AB/</link>
+        <pubDate>Fri, 10 Mar 2023 01:55:12 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/tags/%E8%B3%87%E6%96%99%E5%BA%AB/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

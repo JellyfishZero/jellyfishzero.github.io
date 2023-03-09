@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>小遊戲 on 海蜇零的水缸</title>
+        <link>https://JellyfishZero.github.io/tags/%E5%B0%8F%E9%81%8A%E6%88%B2/</link>
+        <description>Recent content in 小遊戲 on 海蜇零的水缸</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Fri, 10 Mar 2023 01:55:12 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/%E5%B0%8F%E9%81%8A%E6%88%B2/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>【C#】PET II 遊戲介紹</title>
+        <link>https://JellyfishZero.github.io/PET-II-Introduction/</link>
+        <pubDate>Fri, 10 Mar 2023 01:55:12 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/PET-II-Introduction/</guid>
+        <description>&lt;img src="https://JellyfishZero.github.io/SomeProblemTitle/title.png" alt="Featured image of post 【C#】PET II 遊戲介紹" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+&lt;p&gt;　　此作品是大學課程「資料庫應用程式設計」的期末專題，使用Visual Studio，採以C#語言開發，含有資料庫的Windows Form應用程式。此門課程在期末時獲得94分的學期成績。
+作品的主題是一個養貓娘的遊戲，此期末專題是和另外兩位同學一起合作。最初的構想是想要仿造小時候玩的「電子寵物機」，去養一隻可愛的寵物。但是後來和同學討論後就決定結合了一點電子小說的概念，讓原本單純的養貓，改成飼養貓娘，並添加了劇情。在培養的親密度達到最高時候，便可以繼續後續的劇情並為遊戲收尾。劇情方面，是描述主角很好心的收留一隻來自異世界的貓娘，試著要養活她並跟她朝日相處。&lt;/p&gt;
+&lt;p&gt;　　另外，該作品之所以為II（二代）的原因是因前一學期的「資料庫管理系統」課程，我的同學利用PHP和MySQL做了網頁版的寵物飼養機「PET」(被視為第一代)，但那時候的系統還很陽春，並且沒有劇情的內容。但因為我認為我這位好同學的想法很有創意，我便決定要跟他合作這次「資料庫應用程式設計」的期末專題。最後也獲得當時授課老師的青睞，拿到不錯的成績。&lt;/p&gt;
+&lt;h2 id=&#34;圖片預覽&#34;&gt;圖片預覽&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;標題畫面
+&lt;img src=&#34;https://JellyfishZero.github.io/PET-II-Introduction/title.png&#34;
+	width=&#34;918&#34;
+	height=&#34;550&#34;
+	srcset=&#34;https://JellyfishZero.github.io/PET-II-Introduction/title_hu1c805fd50394cb20465c0d8d1652a045_535257_480x0_resize_box_3.png 480w, https://JellyfishZero.github.io/PET-II-Introduction/title_hu1c805fd50394cb20465c0d8d1652a045_535257_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;存檔讀取畫面
+&lt;img src=&#34;https://JellyfishZero.github.io/PET-II-Introduction/load.png&#34;
+	width=&#34;918&#34;
+	height=&#34;550&#34;
+	srcset=&#34;https://JellyfishZero.github.io/PET-II-Introduction/load_hu68df366e4f2ce81385580f34bd2de224_440342_480x0_resize_box_3.png 480w, https://JellyfishZero.github.io/PET-II-Introduction/load_hu68df366e4f2ce81385580f34bd2de224_440342_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;故事劇情畫面
+&lt;img src=&#34;https://JellyfishZero.github.io/PET-II-Introduction/story.png&#34;
+	width=&#34;914&#34;
+	height=&#34;548&#34;
+	srcset=&#34;https://JellyfishZero.github.io/PET-II-Introduction/story_hu6ba3c6605b3e0b3335589e2cd5bbe68c_464641_480x0_resize_box_3.png 480w, https://JellyfishZero.github.io/PET-II-Introduction/story_hu6ba3c6605b3e0b3335589e2cd5bbe68c_464641_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;餵養寵物畫面
+&lt;img src=&#34;https://JellyfishZero.github.io/PET-II-Introduction/gameplay.png&#34;
+	width=&#34;915&#34;
+	height=&#34;548&#34;
+	srcset=&#34;https://JellyfishZero.github.io/PET-II-Introduction/gameplay_hu80b276eb2973fa893f25389a88e1facb_534449_480x0_resize_box_3.png 480w, https://JellyfishZero.github.io/PET-II-Introduction/gameplay_hu80b276eb2973fa893f25389a88e1facb_534449_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

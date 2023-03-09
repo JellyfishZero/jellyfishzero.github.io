@@ -5,6 +5,15 @@
         <link>https://JellyfishZero.github.io/categories/</link>
         <description>Recent content in Categories on 海蜇零的水缸</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-tw</language><atom:link href="https://JellyfishZero.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-tw</language>
+        <lastBuildDate>Fri, 10 Mar 2023 01:55:12 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>C-Sharp</title>
+        <link>https://JellyfishZero.github.io/categories/c-sharp/</link>
+        <pubDate>Fri, 10 Mar 2023 01:55:12 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/categories/c-sharp/</guid>
+        <description>&lt;img src="https://JellyfishZero.github.io/favicon.jpg" alt="Featured image of post C-Sharp" /&gt;</description>
+        </item>
+        
     </channel>
 </rss>
