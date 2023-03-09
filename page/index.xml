@@ -6,16 +6,16 @@
         <description>Recent content in Pages on 海蜇零的水缸</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://JellyfishZero.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://JellyfishZero.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>站長介紹</title>
-        <link>https://JellyfishZero.github.io/%E7%AB%99%E9%95%B7%E4%BB%8B%E7%B4%B9/</link>
-        <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+        <link>https://JellyfishZero.github.io/about/</link>
+        <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://JellyfishZero.github.io/%E7%AB%99%E9%95%B7%E4%BB%8B%E7%B4%B9/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;https://JellyfishZero.github.io/%E7%AB%99%E9%95%B7%E4%BB%8B%E7%B4%B9/myselfre.jpg&#34;
+        <guid>https://JellyfishZero.github.io/about/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://JellyfishZero.github.io/about/myselfre.jpg&#34;
 	width=&#34;627&#34;
 	height=&#34;418&#34;
-	srcset=&#34;https://JellyfishZero.github.io/%E7%AB%99%E9%95%B7%E4%BB%8B%E7%B4%B9/myselfre_hu00eb2ba46857751bf1f7701e7d79dcd2_56013_480x0_resize_q75_box.jpg 480w, https://JellyfishZero.github.io/%E7%AB%99%E9%95%B7%E4%BB%8B%E7%B4%B9/myselfre_hu00eb2ba46857751bf1f7701e7d79dcd2_56013_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://JellyfishZero.github.io/about/myselfre_hu00eb2ba46857751bf1f7701e7d79dcd2_56013_480x0_resize_q75_box.jpg 480w, https://JellyfishZero.github.io/about/myselfre_hu00eb2ba46857751bf1f7701e7d79dcd2_56013_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -143,7 +143,27 @@
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;h3 id=&#34;個人作品&#34;&gt;個人作品&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;待更新&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;備註&lt;/th&gt;
+&lt;th&gt;介紹文章連結&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;寵物飼養機－PET II&lt;/td&gt;
+&lt;td&gt;Windows Form C#&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;屏東縣2019財稅黑客松 第一項 地方稅申報之創新服務 第一名&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;h3 id=&#34;文章著作&#34;&gt;文章著作&lt;/h3&gt;
@@ -283,10 +303,10 @@ Learn more and contribute on [GitHub](https://github.com/gohugoio). --&gt;
         </item>
         <item>
         <title>連結區</title>
-        <link>https://JellyfishZero.github.io/%E9%80%A3%E7%B5%90%E5%8D%80/</link>
+        <link>https://JellyfishZero.github.io/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://JellyfishZero.github.io/%E9%80%A3%E7%B5%90%E5%8D%80/</guid>
+        <guid>https://JellyfishZero.github.io/links/</guid>
         <description>&lt;!-- To use this feature, add `links` section to frontmatter.
 
 This page&#39;s frontmatter:

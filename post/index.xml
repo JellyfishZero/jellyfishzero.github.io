@@ -6,132 +6,79 @@
         <description>Recent content in Posts on 海蜇零的水缸</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://JellyfishZero.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test文章2</title>
-        <link>https://JellyfishZero.github.io/p/test%E6%96%87%E7%AB%A02/</link>
-        <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+        <lastBuildDate>Fri, 10 Mar 2023 01:55:12 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>【C#】PET II 程式介紹</title>
+        <link>https://JellyfishZero.github.io/PET-II-Introduction/</link>
+        <pubDate>Fri, 10 Mar 2023 01:55:12 +0800</pubDate>
         
-        <guid>https://JellyfishZero.github.io/p/test%E6%96%87%E7%AB%A02/</guid>
-        <description>&lt;img src="https://JellyfishZero.github.io/favicon.jpg" alt="Featured image of post Test文章2" /&gt;&lt;p&gt;Hello Worldda&lt;/p&gt;
-&lt;p&gt;我是天才asda&lt;/p&gt;
-&lt;h1 id=&#34;一級標題&#34;&gt;一級標題&lt;/h1&gt;
-&lt;h2 id=&#34;二級標題&#34;&gt;二級標題&lt;/h2&gt;
-&lt;h6 id=&#34;六級標題&#34;&gt;六級標題&lt;/h6&gt;
-&lt;p&gt;我是&lt;strong&gt;天才&lt;/strong&gt;，我喜歡&lt;em&gt;美少女&lt;/em&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;太色了吧
-&lt;ol&gt;
-&lt;li&gt;欸&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;欸&lt;/li&gt;
-&lt;/ol&gt;
+        <guid>https://JellyfishZero.github.io/PET-II-Introduction/</guid>
+        <description>&lt;img src="https://JellyfishZero.github.io/SomeProblemTitle/title.png" alt="Featured image of post 【C#】PET II 程式介紹" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+&lt;p&gt;　　此作品是大學課程「資料庫應用程式設計」的期末專題，使用Visual Studio，採以C#語言開發，含有資料庫的Windows Form應用程式。此門課程在期末時獲得94分的學期成績。
+作品的主題是一個養貓娘的遊戲，此期末專題是和另外兩位同學一起合作。最初的構想是想要仿造小時候玩的「電子寵物機」，去養一隻可愛的寵物。但是後來和同學討論後就決定結合了一點電子小說的概念，讓原本單純的養貓，改成飼養貓娘，並添加了劇情。在培養的親密度達到最高時候，便可以繼續後續的劇情並為遊戲收尾。劇情方面，是描述主角很好心的收留一隻來自異世界的貓娘，試著要養活她並跟她朝日相處。&lt;/p&gt;
+&lt;p&gt;　　另外，該作品之所以為II（二代）的原因是因前一學期的「資料庫管理系統」課程，我的同學利用PHP和MySQL做了網頁版的寵物飼養機「PET」(被視為第一代)，但那時候的系統還很陽春，並且沒有劇情的內容。但因為我認為我這位好同學的想法很有創意，我便決定要跟他合作這次「資料庫應用程式設計」的期末專題。最後也獲得當時授課老師的青睞，拿到不錯的成績。&lt;/p&gt;
+&lt;h2 id=&#34;圖片預覽&#34;&gt;圖片預覽&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Hey
-&lt;ul&gt;
-&lt;li&gt;欸&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;欸一&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Hello&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/p/emoji-support&#34; &gt;呈現的文字&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://JellyfishZero.github.io/favicon.jpg&#34;
-	
-	
-	
+&lt;li&gt;
+&lt;p&gt;標題畫面
+&lt;img src=&#34;https://JellyfishZero.github.io/PET-II-Introduction/title.png&#34;
+	width=&#34;918&#34;
+	height=&#34;550&#34;
+	srcset=&#34;https://JellyfishZero.github.io/PET-II-Introduction/title_hu1c805fd50394cb20465c0d8d1652a045_535257_480x0_resize_box_3.png 480w, https://JellyfishZero.github.io/PET-II-Introduction/title_hu1c805fd50394cb20465c0d8d1652a045_535257_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;我是天才，我喜歡美少女&lt;code&gt;hello&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c++&#34; data-lang=&#34;c++&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/rdnM5csYQGA&#34; 
-            allowfullscreen 
-            title=&#34;YouTube Video&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        </item>
-        <item>
-        <title>Test文章</title>
-        <link>https://JellyfishZero.github.io/p/test%E6%96%87%E7%AB%A0/</link>
-        <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://JellyfishZero.github.io/p/test%E6%96%87%E7%AB%A0/</guid>
-        <description>&lt;img src="https://JellyfishZero.github.io/favicon.jpg" alt="Featured image of post Test文章" /&gt;&lt;p&gt;Hello World&lt;/p&gt;
-&lt;p&gt;我是天才&lt;/p&gt;
-&lt;h1 id=&#34;一級標題&#34;&gt;一級標題&lt;/h1&gt;
-&lt;h2 id=&#34;二級標題&#34;&gt;二級標題&lt;/h2&gt;
-&lt;h6 id=&#34;六級標題&#34;&gt;六級標題&lt;/h6&gt;
-&lt;p&gt;我是&lt;strong&gt;天才&lt;/strong&gt;，我喜歡&lt;em&gt;美少女&lt;/em&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;太色了吧
-&lt;ol&gt;
-&lt;li&gt;欸&lt;/li&gt;
-&lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;欸&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Hey
-&lt;ul&gt;
-&lt;li&gt;欸&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;欸一&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Hello&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/p/emoji-support&#34; &gt;呈現的文字&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://JellyfishZero.github.io/favicon.jpg&#34;
-	
-	
-	
+&lt;li&gt;
+&lt;p&gt;存檔讀取畫面
+&lt;img src=&#34;https://JellyfishZero.github.io/PET-II-Introduction/load.png&#34;
+	width=&#34;918&#34;
+	height=&#34;550&#34;
+	srcset=&#34;https://JellyfishZero.github.io/PET-II-Introduction/load_hu68df366e4f2ce81385580f34bd2de224_440342_480x0_resize_box_3.png 480w, https://JellyfishZero.github.io/PET-II-Introduction/load_hu68df366e4f2ce81385580f34bd2de224_440342_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;我是天才，我喜歡美少女&lt;code&gt;hello&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c++&#34; data-lang=&#34;c++&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/rdnM5csYQGA&#34; 
-            allowfullscreen 
-            title=&#34;YouTube Video&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;故事劇情畫面
+&lt;img src=&#34;https://JellyfishZero.github.io/PET-II-Introduction/story.png&#34;
+	width=&#34;914&#34;
+	height=&#34;548&#34;
+	srcset=&#34;https://JellyfishZero.github.io/PET-II-Introduction/story_hu6ba3c6605b3e0b3335589e2cd5bbe68c_464641_480x0_resize_box_3.png 480w, https://JellyfishZero.github.io/PET-II-Introduction/story_hu6ba3c6605b3e0b3335589e2cd5bbe68c_464641_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;餵養寵物畫面
+&lt;img src=&#34;https://JellyfishZero.github.io/PET-II-Introduction/gameplay.png&#34;
+	width=&#34;915&#34;
+	height=&#34;548&#34;
+	srcset=&#34;https://JellyfishZero.github.io/PET-II-Introduction/gameplay_hu80b276eb2973fa893f25389a88e1facb_534449_480x0_resize_box_3.png 480w, https://JellyfishZero.github.io/PET-II-Introduction/gameplay_hu80b276eb2973fa893f25389a88e1facb_534449_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         

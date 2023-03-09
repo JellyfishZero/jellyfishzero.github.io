@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 <html lang="zh-tw" dir="ltr">
     <head><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='JellyfishZero&#39;s Home'>
-<title>Posts</title>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='大學課程「資料庫應用程式設計」的期末專題'>
+<title>【C#】PET II 程式介紹</title>
 
-<link rel='canonical' href='https://JellyfishZero.github.io/post/'>
+<link rel='canonical' href='https://JellyfishZero.github.io/PET-II-Introduction/'>
 
-<link rel="stylesheet" href="/scss/style.min.8191399262444ab68b72a18c97392f5349be20a1615d77445be51e974c144cff.css"><meta property='og:title' content='Posts'>
-<meta property='og:description' content='JellyfishZero&#39;s Home'>
-<meta property='og:url' content='https://JellyfishZero.github.io/post/'>
+<link rel="stylesheet" href="/scss/style.min.8191399262444ab68b72a18c97392f5349be20a1615d77445be51e974c144cff.css"><meta property='og:title' content='【C#】PET II 程式介紹'>
+<meta property='og:description' content='大學課程「資料庫應用程式設計」的期末專題'>
+<meta property='og:url' content='https://JellyfishZero.github.io/PET-II-Introduction/'>
 <meta property='og:site_name' content='海蜇零的水缸'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2023-03-10T01:55:12&#43;08:00 '/>
-<meta name="twitter:title" content="Posts">
-<meta name="twitter:description" content="JellyfishZero&#39;s Home"><link rel="alternate" type="application/rss&#43;xml" href="https://JellyfishZero.github.io/post/index.xml">
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2023-03-10T01:55:12&#43;08:00'/><meta property='article:modified_time' content='2023-03-10T01:55:12&#43;08:00'/><meta property='og:image' content='https://JellyfishZero.github.io/SomeProblemTitle/title.png' />
+<meta name="twitter:title" content="【C#】PET II 程式介紹">
+<meta name="twitter:description" content="大學課程「資料庫應用程式設計」的期末專題"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://JellyfishZero.github.io/SomeProblemTitle/title.png' />
     <link rel="shortcut icon" href="/favicon2.ico" />
 
 <script type="application/javascript">
@@ -28,7 +29,9 @@ if (!doNotTrack) {
 }
 </script>
     </head>
-    <body class="">
+    <body class="
+    article-page
+    ">
     <script>
         (function() {
             const colorSchemeKey = 'StackColorScheme';
@@ -547,61 +550,10 @@ VDAwOjE4OjEwKzAwOjAwA7T4vAAAAABJRU5ErkJggg==" />
     <aside class="sidebar right-sidebar sticky">
         
             
-                <form action="/search/" class="search-form widget" >
-        <p>
-            <label>搜尋</label>
-            <input name="keyword" required placeholder="要找什麼咧？" />
-        
-            <button title="搜尋">
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="10" cy="10" r="7" />
-  <line x1="21" y1="21" x2="15" y2="15" />
-</svg>
-
-
-
-            </button>
-        </p>
-    </form>
-            
-        
-            
-                <section class="widget archives">
+                
+    <section class="widget archives">
         <div class="widget-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-infinity" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <path d="M9.828 9.172a4 4 0 1 0 0 5.656 a10 10 0 0 0 2.172 -2.828a10 10 0 0 1 2.172 -2.828 a4 4 0 1 1 0 5.656a10 10 0 0 1 -2.172 -2.828a10 10 0 0 0 -2.172 -2.828" />
-</svg>
-
-
-
-        </div>
-        <h2 class="widget-title section-title">文章檔案</h2>
-
-        
-        
-        
-        
-        
-        <div class="widget-archive--list">
-            <div class="archives-year">
-                    <a href="/archives/#2023">
-                        
-                            <span class="year">2023</span>
-                            <span class="count">1</span>
-                        
-                    </a> 
-                </div>
-            
-        </div>
-    </section>
-            
-        
-            
-                <section class="widget tagCloud">
-    <div class="widget-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
   <line x1="5" y1="9" x2="19" y2="9" />
   <line x1="5" y1="15" x2="19" y2="15" />
@@ -611,77 +563,241 @@ VDAwOjE4OjEwKzAwOjAwA7T4vAAAAABJRU5ErkJggg==" />
 
 
 
-    </div>
-    <h2 class="widget-title section-title">本站文章分類</h2>
-
-    <div class="tagCloud-tags">
+        </div>
+        <h2 class="widget-title section-title">文章分節</h2>
         
-    </div>
-</section>
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#內容介紹">內容介紹</a></li>
+    <li><a href="#圖片預覽">圖片預覽</a></li>
+  </ol>
+</nav>
+        </div>
+    </section>
 
-            
-        
-            
-                <section class="widget tagCloud">
-    <div class="widget-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
-  <circle cx="9" cy="9" r="2" />
-</svg>
-
-
-
-    </div>
-    <h2 class="widget-title section-title">本站文章含有標籤</h2>
-
-    <div class="tagCloud-tags">
-        
-    </div>
-</section>
             
         
     </aside>
 
 
             <main class="main full-width">
-    <header>
-        <h3 class="section-title">
-            
-                Section
-            
-        </h3>
-
-        <div class="section-card">
-            <div class="section-details">
-                <h3 class="section-count">1 page</h3>
-                <h1 class="section-term">Posts</h1>
-                
-            </div>
-        </div>
-    </header>
-    
-    <section class="article-list--compact">
-        
-            <article>
-    <a href="/PET-II-Introduction/">
-        <div class="article-details">
-            <h2 class="article-title">【C#】PET II 程式介紹</h2>
-            <footer class="article-time">
-                <time datetime='2023-03-10T01:55:12&#43;08:00'>Mar 10, 2023</time>
-            </footer>
-        </div>
-            <div class="article-image">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/PET-II-Introduction/">
                 
                     <img src="/SomeProblemTitle/title.png" loading="lazy" alt="Featured image of post 【C#】PET II 程式介紹" />
                 
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/PET-II-Introduction/">【C#】PET II 程式介紹</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            大學課程「資料庫應用程式設計」的期末專題
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Mar 10, 2023</time>
             </div>
         
-    </a>
-</article>
+
         
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    1 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <h2 id="內容介紹">內容介紹</h2>
+<p>　　此作品是大學課程「資料庫應用程式設計」的期末專題，使用Visual Studio，採以C#語言開發，含有資料庫的Windows Form應用程式。此門課程在期末時獲得94分的學期成績。
+作品的主題是一個養貓娘的遊戲，此期末專題是和另外兩位同學一起合作。最初的構想是想要仿造小時候玩的「電子寵物機」，去養一隻可愛的寵物。但是後來和同學討論後就決定結合了一點電子小說的概念，讓原本單純的養貓，改成飼養貓娘，並添加了劇情。在培養的親密度達到最高時候，便可以繼續後續的劇情並為遊戲收尾。劇情方面，是描述主角很好心的收留一隻來自異世界的貓娘，試著要養活她並跟她朝日相處。</p>
+<p>　　另外，該作品之所以為II（二代）的原因是因前一學期的「資料庫管理系統」課程，我的同學利用PHP和MySQL做了網頁版的寵物飼養機「PET」(被視為第一代)，但那時候的系統還很陽春，並且沒有劇情的內容。但因為我認為我這位好同學的想法很有創意，我便決定要跟他合作這次「資料庫應用程式設計」的期末專題。最後也獲得當時授課老師的青睞，拿到不錯的成績。</p>
+<h2 id="圖片預覽">圖片預覽</h2>
+<ul>
+<li>
+<p>標題畫面
+<img src="/PET-II-Introduction/title.png"
+	width="918"
+	height="550"
+	srcset="/PET-II-Introduction/title_hu1c805fd50394cb20465c0d8d1652a045_535257_480x0_resize_box_3.png 480w, /PET-II-Introduction/title_hu1c805fd50394cb20465c0d8d1652a045_535257_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="166"
+		data-flex-basis="400px"
+	
+></p>
+</li>
+<li>
+<p>存檔讀取畫面
+<img src="/PET-II-Introduction/load.png"
+	width="918"
+	height="550"
+	srcset="/PET-II-Introduction/load_hu68df366e4f2ce81385580f34bd2de224_440342_480x0_resize_box_3.png 480w, /PET-II-Introduction/load_hu68df366e4f2ce81385580f34bd2de224_440342_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="166"
+		data-flex-basis="400px"
+	
+></p>
+</li>
+<li>
+<p>故事劇情畫面
+<img src="/PET-II-Introduction/story.png"
+	width="914"
+	height="548"
+	srcset="/PET-II-Introduction/story_hu6ba3c6605b3e0b3335589e2cd5bbe68c_464641_480x0_resize_box_3.png 480w, /PET-II-Introduction/story_hu6ba3c6605b3e0b3335589e2cd5bbe68c_464641_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="166"
+		data-flex-basis="400px"
+	
+></p>
+</li>
+<li>
+<p>餵養寵物畫面
+<img src="/PET-II-Introduction/gameplay.png"
+	width="915"
+	height="548"
+	srcset="/PET-II-Introduction/gameplay_hu80b276eb2973fa893f25389a88e1facb_534449_480x0_resize_box_3.png 480w, /PET-II-Introduction/gameplay_hu80b276eb2973fa893f25389a88e1facb_534449_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="166"
+		data-flex-basis="400px"
+	
+></p>
+</li>
+</ul>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under CC BY-NC-SA 4.0</span>
     </section>
-<footer class="site-footer">
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+     
+    
+        
+    <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script type="application/javascript">
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "jellyfishzero" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
     <section class="copyright">
         &copy; 
         
@@ -696,6 +812,84 @@ VDAwOjE4OjEwKzAwOjAwA7T4vAAAAABJRU5ErkJggg==" />
     </section>
 </footer>
 
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
 
             </main>
         </div>
