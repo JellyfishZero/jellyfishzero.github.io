@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>吃飯地點抽選器 on 海蜇零的水缸</title>
+        <link>https://JellyfishZero.github.io/tags/%E5%90%83%E9%A3%AF%E5%9C%B0%E9%BB%9E%E6%8A%BD%E9%81%B8%E5%99%A8/</link>
+        <description>Recent content in 吃飯地點抽選器 on 海蜇零的水缸</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Wed, 22 Mar 2023 02:59:13 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/%E5%90%83%E9%A3%AF%E5%9C%B0%E9%BB%9E%E6%8A%BD%E9%81%B8%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>吃飯地點抽選軟體－賽米，這餐吃什麼？</title>
+        <link>https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/</link>
+        <pubDate>Wed, 22 Mar 2023 02:59:13 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/</guid>
+        <description>&lt;img src="https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/Start.png" alt="Featured image of post 吃飯地點抽選軟體－賽米，這餐吃什麼？" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+&lt;p&gt;　　此作品是自己私底下製作的Windows Form應用程式，與課程學習無關，純自於興趣的作品。&lt;/p&gt;
+&lt;p&gt;　　之所以會製作這個作品的原因主要是因為，常與朋友之間無法決定某一餐該吃哪間餐廳，因此常會有碰到不知道要吃什麼的問題。&lt;/p&gt;
+&lt;p&gt;　　為解決這個問題，便開始動手寫這支程式。但因為過程中，想加入自己喜歡的動漫角色，所以就變成了「賽米，這餐吃什麼？」這樣子的主題，想運用這個主題，營造出此角色推薦餐廳給使用者的感覺。&lt;/p&gt;
+&lt;p&gt;　　本作品會依照作業系統當前的時間，判斷使用者正準備要吃哪一餐，並從資料庫中亂數選出一家餐廳推薦給使用者。例如：時間是中午十一點，要吃午餐，這時候便只從資料庫中亂數選取一間，其類別被使用者歸類為「午餐」的餐廳，並推薦給使用者。
+本作品提供的功能如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;新增餐廳資訊(店名、類別、評價)至資料庫。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修改餐廳的資訊。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;刪除一間資料庫的餐廳。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;刪除整個資料庫的餐廳。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;詢問這餐該吃甚麼：點擊對話框或者是角色圖片，就會啟動這項功能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;　　另外其中一個隱藏的功能是本程式為「避免使用者不停反悔」，不去吃推薦的餐廳，一旦詢問角色要吃什麼的次數超過十次，角色便會生氣不提供推薦。此時使用者只能選擇「安撫」功能安撫角色或把「應用程式關閉」才能夠再次詢問。&lt;/p&gt;
+&lt;p&gt;　　關於新增餐廳所提供的資訊中，除前文提到的「類別」是用來篩選該時段的餐廳外，「評價」的功能是當該應用程式推薦餐廳時，角色的對話會有所不同，評價最低是1，最高是10。若是低評價的餐廳，角色的對話內容會顯得很不想去這家店用餐，而評價高的餐廳則相反。&lt;/p&gt;
+&lt;h2 id=&#34;圖片預覽&#34;&gt;圖片預覽&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;進入程式後的起始畫面
+&lt;img src=&#34;https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/Start.png&#34;
+	width=&#34;663&#34;
+	height=&#34;530&#34;
+	srcset=&#34;https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/Start_hua433355c694eb3936404bc5ba8000096_171722_480x0_resize_box_3.png 480w, https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/Start_hua433355c694eb3936404bc5ba8000096_171722_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;125&#34;
+		data-flex-basis=&#34;300px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;新增店家介面
+&lt;img src=&#34;https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/Insert.png&#34;
+	width=&#34;662&#34;
+	height=&#34;533&#34;
+	srcset=&#34;https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/Insert_hud5dd5f0d45cbb168c3de25314b4e5a45_140325_480x0_resize_box_3.png 480w, https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/Insert_hud5dd5f0d45cbb168c3de25314b4e5a45_140325_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;124&#34;
+		data-flex-basis=&#34;298px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修改店家介面
+&lt;img src=&#34;https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/Revise.png&#34;
+	width=&#34;667&#34;
+	height=&#34;532&#34;
+	srcset=&#34;https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/Revise_hub91a42824a69cef0bad759124cb68cd5_110425_480x0_resize_box_3.png 480w, https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/Revise_hub91a42824a69cef0bad759124cb68cd5_110425_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;125&#34;
+		data-flex-basis=&#34;300px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;推薦店家時的畫面
+&lt;img src=&#34;https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/Recomand.png&#34;
+	width=&#34;667&#34;
+	height=&#34;533&#34;
+	srcset=&#34;https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/Recomand_huc4ebd11494a3e11818600919ac93b421_178618_480x0_resize_box_3.png 480w, https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat/Recomand_huc4ebd11494a3e11818600919ac93b421_178618_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;125&#34;
+		data-flex-basis=&#34;300px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

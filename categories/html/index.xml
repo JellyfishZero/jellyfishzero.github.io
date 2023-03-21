@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>HTML on 海蜇零的水缸</title>
+        <link>https://JellyfishZero.github.io/categories/html/</link>
+        <description>Recent content in HTML on 海蜇零的水缸</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Wed, 22 Mar 2023 02:44:44 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/categories/html/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>CYM C304 of Legend官方網站</title>
+        <link>https://JellyfishZero.github.io/CYM_C304_Web/</link>
+        <pubDate>Wed, 22 Mar 2023 02:44:44 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/CYM_C304_Web/</guid>
+        <description>&lt;img src="https://JellyfishZero.github.io/CYM_C304_Web/Stroy.PNG" alt="Featured image of post CYM C304 of Legend官方網站" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+&lt;p&gt;　　此作品是大學課程「資料庫管理系統」的期末專題，該作品獲得課堂老師98分的評價。該作品是HTML語法、PHP語言以及MySQL的綜合應用，並利用UniServer Zero XIII 架設Apache網頁伺服器。&lt;/p&gt;
+&lt;p&gt;　　該作品的主題是一款RPG遊戲的官方網站，當初會訂定這個主題是因為當時跟同學私下在用RPG maker做一款關於大學室友的遊戲，便想要寫一個網站來介紹這款遊戲。因此我便將資訊寫在資料庫中，並提供像是「故事介紹」、「人物介紹」等介面，供使用者選擇，並從資料庫調出資訊。並且設置了「留言區」，供使用者留言以及回報遊戲的問題等等。另外，本專題也在背景插入了音樂，所以當使用者開啟網頁的時候，便會自動開始撥放音樂。&lt;/p&gt;
+&lt;h2 id=&#34;圖片預覽&#34;&gt;圖片預覽&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;網頁公佈欄(更新日誌)頁面
+&lt;img src=&#34;https://JellyfishZero.github.io/CYM_C304_Web/announce.PNG&#34;
+	width=&#34;1905&#34;
+	height=&#34;1065&#34;
+	srcset=&#34;https://JellyfishZero.github.io/CYM_C304_Web/announce_hu8ef4d60ada6b8c9564e662117746125b_1758886_480x0_resize_box_3.PNG 480w, https://JellyfishZero.github.io/CYM_C304_Web/announce_hu8ef4d60ada6b8c9564e662117746125b_1758886_1024x0_resize_box_3.PNG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;178&#34;
+		data-flex-basis=&#34;429px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;遊戲腳色介紹頁面
+&lt;img src=&#34;https://JellyfishZero.github.io/CYM_C304_Web/Character.PNG&#34;
+	width=&#34;1827&#34;
+	height=&#34;978&#34;
+	srcset=&#34;https://JellyfishZero.github.io/CYM_C304_Web/Character_hu8451a679a8e22d31b8c5640bb70a2faa_1248287_480x0_resize_box_3.PNG 480w, https://JellyfishZero.github.io/CYM_C304_Web/Character_hu8451a679a8e22d31b8c5640bb70a2faa_1248287_1024x0_resize_box_3.PNG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;448px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;遊戲劇情介紹頁面
+&lt;img src=&#34;https://JellyfishZero.github.io/CYM_C304_Web/Stroy.PNG&#34;
+	width=&#34;1957&#34;
+	height=&#34;1079&#34;
+	srcset=&#34;https://JellyfishZero.github.io/CYM_C304_Web/Stroy_hu5f8fa704b980b0f8ccef65e736f42004_2385883_480x0_resize_box_3.PNG 480w, https://JellyfishZero.github.io/CYM_C304_Web/Stroy_hu5f8fa704b980b0f8ccef65e736f42004_2385883_1024x0_resize_box_3.PNG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;181&#34;
+		data-flex-basis=&#34;435px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;留言板頁面
+&lt;img src=&#34;https://JellyfishZero.github.io/CYM_C304_Web/Feedback.PNG&#34;
+	width=&#34;1490&#34;
+	height=&#34;784&#34;
+	srcset=&#34;https://JellyfishZero.github.io/CYM_C304_Web/Feedback_hu607808d4d9f45ad93131a3a0c6304e3e_414041_480x0_resize_box_3.PNG 480w, https://JellyfishZero.github.io/CYM_C304_Web/Feedback_hu607808d4d9f45ad93131a3a0c6304e3e_414041_1024x0_resize_box_3.PNG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;190&#34;
+		data-flex-basis=&#34;456px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下載頁面
+&lt;img src=&#34;https://JellyfishZero.github.io/CYM_C304_Web/Download.PNG&#34;
+	width=&#34;1397&#34;
+	height=&#34;967&#34;
+	srcset=&#34;https://JellyfishZero.github.io/CYM_C304_Web/Download_hud634f66ce176710c3d47edbc548fa268_1144064_480x0_resize_box_3.PNG 480w, https://JellyfishZero.github.io/CYM_C304_Web/Download_hud634f66ce176710c3d47edbc548fa268_1144064_1024x0_resize_box_3.PNG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;144&#34;
+		data-flex-basis=&#34;346px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

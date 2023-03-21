@@ -6,10 +6,34 @@
         <description>Recent content in Tags on 海蜇零的水缸</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Fri, 10 Mar 2023 01:55:12 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Mar 2023 03:28:12 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Android Studio</title>
+        <link>https://JellyfishZero.github.io/tags/android-studio/</link>
+        <pubDate>Wed, 22 Mar 2023 03:28:12 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/tags/android-studio/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Java</title>
+        <link>https://JellyfishZero.github.io/tags/java/</link>
+        <pubDate>Wed, 22 Mar 2023 03:28:12 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/tags/java/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>放置手遊</title>
+        <link>https://JellyfishZero.github.io/tags/%E6%94%BE%E7%BD%AE%E6%89%8B%E9%81%8A/</link>
+        <pubDate>Wed, 22 Mar 2023 03:28:12 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/tags/%E6%94%BE%E7%BD%AE%E6%89%8B%E9%81%8A/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>C#</title>
         <link>https://JellyfishZero.github.io/tags/c#/</link>
-        <pubDate>Fri, 10 Mar 2023 01:55:12 +0800</pubDate>
+        <pubDate>Wed, 22 Mar 2023 02:59:13 +0800</pubDate>
         
         <guid>https://JellyfishZero.github.io/tags/c#/</guid>
         <description></description>
@@ -17,9 +41,57 @@
         <item>
         <title>Windows Form</title>
         <link>https://JellyfishZero.github.io/tags/windows-form/</link>
-        <pubDate>Fri, 10 Mar 2023 01:55:12 +0800</pubDate>
+        <pubDate>Wed, 22 Mar 2023 02:59:13 +0800</pubDate>
         
         <guid>https://JellyfishZero.github.io/tags/windows-form/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>吃飯地點抽選器</title>
+        <link>https://JellyfishZero.github.io/tags/%E5%90%83%E9%A3%AF%E5%9C%B0%E9%BB%9E%E6%8A%BD%E9%81%B8%E5%99%A8/</link>
+        <pubDate>Wed, 22 Mar 2023 02:59:13 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/tags/%E5%90%83%E9%A3%AF%E5%9C%B0%E9%BB%9E%E6%8A%BD%E9%81%B8%E5%99%A8/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Apache</title>
+        <link>https://JellyfishZero.github.io/tags/apache/</link>
+        <pubDate>Wed, 22 Mar 2023 02:44:44 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/tags/apache/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>UniServer Zero XIII</title>
+        <link>https://JellyfishZero.github.io/tags/uniserver-zero-xiii/</link>
+        <pubDate>Wed, 22 Mar 2023 02:44:44 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/tags/uniserver-zero-xiii/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>網頁</title>
+        <link>https://JellyfishZero.github.io/tags/%E7%B6%B2%E9%A0%81/</link>
+        <pubDate>Wed, 22 Mar 2023 02:44:44 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/tags/%E7%B6%B2%E9%A0%81/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>自製RPG Maker遊戲介紹</title>
+        <link>https://JellyfishZero.github.io/tags/%E8%87%AA%E8%A3%BDrpg-maker%E9%81%8A%E6%88%B2%E4%BB%8B%E7%B4%B9/</link>
+        <pubDate>Wed, 22 Mar 2023 02:44:44 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/tags/%E8%87%AA%E8%A3%BDrpg-maker%E9%81%8A%E6%88%B2%E4%BB%8B%E7%B4%B9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>資料庫</title>
+        <link>https://JellyfishZero.github.io/tags/%E8%B3%87%E6%96%99%E5%BA%AB/</link>
+        <pubDate>Wed, 22 Mar 2023 02:44:44 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/tags/%E8%B3%87%E6%96%99%E5%BA%AB/</guid>
         <description></description>
         </item>
         <item>
@@ -36,14 +108,6 @@
         <pubDate>Fri, 10 Mar 2023 01:55:12 +0800</pubDate>
         
         <guid>https://JellyfishZero.github.io/tags/%E5%B0%8F%E9%81%8A%E6%88%B2/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>資料庫</title>
-        <link>https://JellyfishZero.github.io/tags/%E8%B3%87%E6%96%99%E5%BA%AB/</link>
-        <pubDate>Fri, 10 Mar 2023 01:55:12 +0800</pubDate>
-        
-        <guid>https://JellyfishZero.github.io/tags/%E8%B3%87%E6%96%99%E5%BA%AB/</guid>
         <description></description>
         </item>
         

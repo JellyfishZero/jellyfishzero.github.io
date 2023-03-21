@@ -6,13 +6,45 @@
         <description>Recent content in Categories on 海蜇零的水缸</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Fri, 10 Mar 2023 01:55:12 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Mar 2023 03:28:12 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Java</title>
+        <link>https://JellyfishZero.github.io/categories/java/</link>
+        <pubDate>Wed, 22 Mar 2023 03:28:12 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/categories/java/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>C-Sharp</title>
         <link>https://JellyfishZero.github.io/categories/c-sharp/</link>
-        <pubDate>Fri, 10 Mar 2023 01:55:12 +0800</pubDate>
+        <pubDate>Wed, 22 Mar 2023 02:59:13 +0800</pubDate>
         
         <guid>https://JellyfishZero.github.io/categories/c-sharp/</guid>
         <description>&lt;img src="https://JellyfishZero.github.io/favicon.jpg" alt="Featured image of post C-Sharp" /&gt;</description>
+        </item>
+        <item>
+        <title>HTML</title>
+        <link>https://JellyfishZero.github.io/categories/html/</link>
+        <pubDate>Wed, 22 Mar 2023 02:44:44 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/categories/html/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>MySQL</title>
+        <link>https://JellyfishZero.github.io/categories/mysql/</link>
+        <pubDate>Wed, 22 Mar 2023 02:44:44 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/categories/mysql/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>PHP</title>
+        <link>https://JellyfishZero.github.io/categories/php/</link>
+        <pubDate>Wed, 22 Mar 2023 02:44:44 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/categories/php/</guid>
+        <description></description>
         </item>
         
     </channel>
