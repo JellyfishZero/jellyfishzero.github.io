@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Yolo-3 on 海蜇零的水缸</title>
+        <link>https://JellyfishZero.github.io/tags/yolo-3/</link>
+        <description>Recent content in Yolo-3 on 海蜇零的水缸</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Fri, 24 Mar 2023 23:01:11 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/yolo-3/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>以臉部表情為基之檔案密碼鎖</title>
+        <link>https://JellyfishZero.github.io/Facial_Passwords/</link>
+        <pubDate>Fri, 24 Mar 2023 23:01:11 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/Facial_Passwords/</guid>
+        <description>&lt;img src="https://JellyfishZero.github.io/Facial_Passwords/Decode.jpg" alt="Featured image of post 以臉部表情為基之檔案密碼鎖" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+&lt;p&gt;　　此作品是畢業專題，與其他三位組員共同合作，旨在利用Darknet神經網路架構提供的物件偵測方法「YOLO」實作一個以臉部表情為密碼的檔案鎖。主要使用的語言是python。會想做這個主題的原因是我們想避免使用鍵盤輸入密碼的不便，提供使用者只要用臉部表情組合便能夠加解密的檔案的軟體。因此我們的專題，我認為很值得的一點就是在輸入密碼的過程確實完全可以不用使用鍵盤，使需要用到簡單的幾次滑鼠點擊，確實地解決了這個問題，落實當初的構想。&lt;/p&gt;
+&lt;p&gt;　　由於此專題主要的實用價值在於其臉部辨識的部分，所以該專題的使用者介面便以簡潔、簡單為主，讓使用者可以快速的了解此作品提供的功能。&lt;/p&gt;
+&lt;p&gt;　　首先我們先收集各種表情的圖片，例如：Happy、Sad等等的表情圖片，做為訓練集與驗證集，並且安裝完成Darknet架構，將這些圖片送入神經網路進行訓練，並獲得最終的權重。結合OpenCV提供的API載入此權重便可以利用Webcam獲取人臉表情的辨識度，本專題是以辨識度最高的表情做為讀入密碼的依據。&lt;/p&gt;
+&lt;p&gt;　　關於此專題的兩項功能：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;是針對單一檔案或多個檔案進行加密，我們於加密畫面提供五種表情之按鈕供使用者組成表情密碼，並對這些檔案進行加密。&lt;/li&gt;
+&lt;li&gt;是針對這些被加密的檔案，進行密碼輸入與解密的部分。密碼輸入的部分就如上圖提供的畫面顯示，介面的中間會持續顯示使用者目前被偵測的表情。當使用者選取好要解密的檔案後，按下「開始輸入表情」，本專題的應用程式並會每兩秒依據介面中間的顯示結果讀入一個表情密碼，並將此按鈕的字串更換為「結束輸入表情」。若此時，使用者做錯了表情，輸入錯誤的密碼，便可以按下重新輸入，再次輸入密碼。若要停止輸入表情則按下「結束輸入表情」，便可以停止。停止後按下確定，便可以驗證密碼是否正確，若正確就將原先被加密的檔案解密、還原。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;　　此外，這個作品是我與專題組員在大學生涯中第一次實作關於深度學習相關的技術，因此大多數是使用既有的API去完成，因此就結果而言，並不是相當令自己滿意，主要原因在於臉部偵測的準確度、作品的實用性質、以及此種加密的流程設定是否真的安全等等仍有待驗證。我認為還有很大的改善空間。但即便如此，我仍認為使用臉部表情做為辨識的密碼仍有可行之處，只是需要更快、更精準的手段和方法，和找到足以說服大眾這是個好作法的證據，而這些做法便值得再繼續進行研究。&lt;/p&gt;
+&lt;p&gt;　　因此，我與組員便發現這個密碼鎖這個主題以目前來說，並不是這麼好發揮，也不這麼具有亮點，於是我們便轉變了開發方向，以遊戲角度來利用YOLO這個物件偵測套件。&lt;/p&gt;
+&lt;h2 id=&#34;圖片預覽&#34;&gt;圖片預覽&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;進入程式後的首頁&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://JellyfishZero.github.io/Facial_Passwords/Start.png&#34;
+	width=&#34;601&#34;
+	height=&#34;302&#34;
+	srcset=&#34;https://JellyfishZero.github.io/Facial_Passwords/Start_hudfdc892894ae6e3664fe950e293cd7d8_11898_480x0_resize_box_3.png 480w, https://JellyfishZero.github.io/Facial_Passwords/Start_hudfdc892894ae6e3664fe950e293cd7d8_11898_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;199&#34;
+		data-flex-basis=&#34;477px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;加密功能畫面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://JellyfishZero.github.io/Facial_Passwords/Code.png&#34;
+	width=&#34;515&#34;
+	height=&#34;433&#34;
+	srcset=&#34;https://JellyfishZero.github.io/Facial_Passwords/Code_hubcdf20b94039b868663b22939bb7d227_41675_480x0_resize_box_3.png 480w, https://JellyfishZero.github.io/Facial_Passwords/Code_hubcdf20b94039b868663b22939bb7d227_41675_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;118&#34;
+		data-flex-basis=&#34;285px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;解密功能畫面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://JellyfishZero.github.io/Facial_Passwords/Decode.jpg&#34;
+	width=&#34;601&#34;
+	height=&#34;442&#34;
+	srcset=&#34;https://JellyfishZero.github.io/Facial_Passwords/Decode_hu28503ba12b66ec08710f26fcc22a86eb_20871_480x0_resize_q75_box.jpg 480w, https://JellyfishZero.github.io/Facial_Passwords/Decode_hu28503ba12b66ec08710f26fcc22a86eb_20871_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;326px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

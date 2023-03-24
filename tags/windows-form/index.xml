@@ -103,12 +103,12 @@
 </description>
         </item>
         <item>
-        <title>【C#】PET II 遊戲介紹</title>
+        <title>PET II 寵物機</title>
         <link>https://JellyfishZero.github.io/PET-II-Introduction/</link>
         <pubDate>Fri, 10 Mar 2023 01:55:12 +0800</pubDate>
         
         <guid>https://JellyfishZero.github.io/PET-II-Introduction/</guid>
-        <description>&lt;img src="https://JellyfishZero.github.io/SomeProblemTitle/title.png" alt="Featured image of post 【C#】PET II 遊戲介紹" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+        <description>&lt;img src="https://JellyfishZero.github.io/SomeProblemTitle/title.png" alt="Featured image of post PET II 寵物機" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
 &lt;p&gt;　　此作品是大學課程「資料庫應用程式設計」的期末專題，使用Visual Studio，採以C#語言開發，含有資料庫的Windows Form應用程式。此門課程在期末時獲得94分的學期成績。
 作品的主題是一個養貓娘的遊戲，此期末專題是和另外兩位同學一起合作。最初的構想是想要仿造小時候玩的「電子寵物機」，去養一隻可愛的寵物。但是後來和同學討論後就決定結合了一點電子小說的概念，讓原本單純的養貓，改成飼養貓娘，並添加了劇情。在培養的親密度達到最高時候，便可以繼續後續的劇情並為遊戲收尾。劇情方面，是描述主角很好心的收留一隻來自異世界的貓娘，試著要養活她並跟她朝日相處。&lt;/p&gt;
 &lt;p&gt;　　另外，該作品之所以為II（二代）的原因是因前一學期的「資料庫管理系統」課程，我的同學利用PHP和MySQL做了網頁版的寵物飼養機「PET」(被視為第一代)，但那時候的系統還很陽春，並且沒有劇情的內容。但因為我認為我這位好同學的想法很有創意，我便決定要跟他合作這次「資料庫應用程式設計」的期末專題。最後也獲得當時授課老師的青睞，拿到不錯的成績。&lt;/p&gt;
