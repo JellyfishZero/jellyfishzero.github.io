@@ -23,6 +23,14 @@
 		data-flex-grow=&#34;150&#34;
 		data-flex-basis=&#34;360px&#34;
 	
+&gt;
+&lt;img src=&#34;https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/78353891_2772435082800502_3260212608132710400_n.jpg?_nc_cat=101&amp;amp;ccb=1-7&amp;amp;_nc_sid=8bfeb9&amp;amp;_nc_ohc=gKEFKYOJDXQAX9b2djD&amp;amp;_nc_ht=scontent.ftpe8-2.fna&amp;amp;oh=00_AfBbXdun8qEfNAuVxncRnaJh-q5CW2MKRVp3TIs_lDe2Qw&amp;amp;oe=6447F322&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;關於我袁子凡&#34;&gt;關於我－－「袁子凡」&lt;/h2&gt;
 &lt;p&gt;　　哈囉！我是子凡，我是個有著多元的興趣與嗜好的資管人，例如：&lt;code&gt;棒球、動漫、鋼琴、繪圖或文章創作&lt;/code&gt;等等都略有涉獵。目前自己比較擅長的領域是程式設計，主要以&lt;code&gt;C++、C#&lt;/code&gt;為我較有信心、較擅長的程式語言，此外也在學業生涯中學習過&lt;code&gt;python、java&lt;/code&gt;等程式語言，亦有其相對應的作品。&lt;/p&gt;
@@ -156,13 +164,38 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;寵物飼養機－PET II&lt;/td&gt;
-&lt;td&gt;Windows Form C#&lt;/td&gt;
+&lt;td&gt;C#&lt;/td&gt;
 &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/PET-II-Introduction&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;code&gt;待更新&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;CYM C304 of Legend官方網站&lt;/td&gt;
+&lt;td&gt;C#&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/PET-II-Introduction&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;吃飯地點抽選軟體－賽米，這餐吃什麼？&lt;/td&gt;
+&lt;td&gt;C#&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;放置型手機遊戲－PET III&lt;/td&gt;
+&lt;td&gt;Java&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/PET-III-Intro&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;以臉部表情為基之檔案密碼鎖&lt;/td&gt;
+&lt;td&gt;Python&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/Facial_Passwords&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;和黑暗精靈跳舞&lt;/td&gt;
+&lt;td&gt;Python&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/DancingWithDarkElf&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;臉部表情辨識及其在老態預防上的應用&lt;/td&gt;
+&lt;td&gt;Python&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/FacialBreakoutClone&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

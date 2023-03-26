@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>基因演算法 on 海蜇零的水缸</title>
+        <link>https://JellyfishZero.github.io/tags/%E5%9F%BA%E5%9B%A0%E6%BC%94%E7%AE%97%E6%B3%95/</link>
+        <description>Recent content in 基因演算法 on 海蜇零的水缸</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Mon, 27 Mar 2023 01:00:51 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/%E5%9F%BA%E5%9B%A0%E6%BC%94%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>和黑暗精靈跳舞</title>
+        <link>https://JellyfishZero.github.io/DancingWithDarkElf/</link>
+        <pubDate>Mon, 27 Mar 2023 01:00:51 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/DancingWithDarkElf/</guid>
+        <description>&lt;img src="https://i.ytimg.com/vi_webp/XvJMVOHt9CI/sddefault.webp" alt="Featured image of post 和黑暗精靈跳舞" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+&lt;p&gt;　　本作品是大學課程「人工智慧」的期末專題，而人工智慧該門課也成為我人生中唯一期末結算100分的大學課程。&lt;/p&gt;
+&lt;p&gt;　　本作品的主題故事為男主角「子凡」穿梭到異世界後對黑暗精靈村莊的少女一見鍾情，為了把黑暗精靈少女娶回家，必須與她學習黑暗精靈村莊的傳統舞蹈。&lt;/p&gt;
+&lt;p&gt;　　基於上述故事前題，本專題利用Python搭配基因演算法，展示了子凡與黑暗精靈少女學習跳舞的過程。在過程中會發現子凡從不停的跳錯，直到最後會完全與黑暗精靈少女同步，兩人一旦同步便會顯示Success的字體提示。&lt;/p&gt;
+&lt;p&gt;　　而本程式提供的功能：會在Console介面啟動程式後，先產生正確的舞步順序（每次開啟程式時都將隨機產生，黑暗精靈少女的舞步會是與此相同）。接著會開啟子凡學習跳舞的介面，此時上方會顯示第幾次的Generation，每一次的Generation會有10次嘗試(Trying)，舞步會有10步（step，顯示從0~9）。在介面中按下Q會關閉程式，按下W會開啟最高準確度的圖表，按下E會提高畫面刷新次數（提高訓練速度），按下R會降低會預設的畫面刷新次數（用於展示訓練結果）。然後介面中間則有角色的名字，頭像，像素風的角色。兩人的舞步相同時，會露出微笑的表情，子凡跳錯時，兩人則會有遺憾的表情。&lt;/p&gt;
+&lt;h2 id=&#34;影片預覽&#34;&gt;影片預覽&lt;/h2&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/XvJMVOHt9CI&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        
+    </channel>
+</rss>

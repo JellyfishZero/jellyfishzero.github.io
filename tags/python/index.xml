@@ -6,7 +6,111 @@
         <description>Recent content in python on 海蜇零的水缸</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Fri, 24 Mar 2023 23:01:11 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 27 Mar 2023 01:53:22 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>臉部表情辨識及其在老態預防上的應用</title>
+        <link>https://JellyfishZero.github.io/FacialBreakoutClone/</link>
+        <pubDate>Mon, 27 Mar 2023 01:53:22 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/FacialBreakoutClone/</guid>
+        <description>&lt;img src="https://i.ytimg.com/vi_webp/te_chRtOS1g/sddefault.webp" alt="Featured image of post 臉部表情辨識及其在老態預防上的應用" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+&lt;p&gt;　　本專題是一個基於臉部辨識的打磚塊遊戲，使用了YOLO物件辨識套件，結合python的pygame套件進行開發，目標是利用臉部辨識功能來操作打磚塊遊戲，藉此讓使用者可以運動臉部，並在遊戲過程中獲得樂趣。&lt;/p&gt;
+&lt;p&gt;本專題的主要功能如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;透過google圖片獲得五種表情用於YOLO深度學習之訓練集：中性(無表情)、悲傷、快樂、生氣、驚訝，分別對應遊戲中控制球拍左右移動，發球功能。&lt;/li&gt;
+&lt;li&gt;提供練習模式，供使用者學習利用表情操作遊戲。&lt;/li&gt;
+&lt;li&gt;提供單人闖關模式，設有不同的難度(越難需擊破越多方塊、球的移動速度越快)&lt;/li&gt;
+&lt;li&gt;提供雙人對戰模式，為雙人對戰的桌球模式。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;　　此程式軟體由小組四個人開發，我的負責內容為理解並應用這次專題臉部辨識的核心－－YOLO套件，並將該臉部辨識功能的程式與小組成員撰寫的利用Pygame套件所製作的打磚塊遊戲內容相接合。　&lt;/p&gt;
+&lt;h2 id=&#34;影片預覽&#34;&gt;影片預覽&lt;/h2&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/te_chRtOS1g&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;參展圖片&#34;&gt;參展圖片&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;此專題獲得國立屏東大學專題成果競賽「多媒體與數位創新組」的第一名佳績&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;此圖中，&lt;code&gt;子凡&lt;/code&gt;我在右邊看過來第三個&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/337153823_1566628413803809_3900735643698158163_n.jpg?_nc_cat=100&amp;amp;ccb=1-7&amp;amp;_nc_sid=730e14&amp;amp;_nc_ohc=3C7kT8dGm6wAX-2zStS&amp;amp;_nc_ht=scontent.ftpe8-2.fna&amp;amp;oh=00_AfCVyhezaNi-OsBFFZ0B8cBN46rGBaERvOHyp4Cwucamtg&amp;amp;oe=64266F32&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;此圖中，&lt;code&gt;子凡&lt;/code&gt;我在右邊看過來第二個&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://JellyfishZero.github.io/FacialBreakoutClone/252eb442-1f9d-4f67-80b4-ab70a87322bf.jfif&#34;
+	width=&#34;1175&#34;
+	height=&#34;881&#34;
+	srcset=&#34;https://JellyfishZero.github.io/FacialBreakoutClone/252eb442-1f9d-4f67-80b4-ab70a87322bf_hua1b079054f4b9e679fa922a4da40c9d7_178223_480x0_resize_q75_box.jfif 480w, https://JellyfishZero.github.io/FacialBreakoutClone/252eb442-1f9d-4f67-80b4-ab70a87322bf_hua1b079054f4b9e679fa922a4da40c9d7_178223_1024x0_resize_q75_box.jfif 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;受邀參加2020KOSMOS產學成果展&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/106509197_3332667600110578_8726495703789831152_n.jpg?_nc_cat=111&amp;amp;ccb=1-7&amp;amp;_nc_sid=8bfeb9&amp;amp;_nc_ohc=IA9v6Oi0bWkAX_n9q9A&amp;amp;_nc_ht=scontent.ftpe8-3.fna&amp;amp;oh=00_AfD6YbXWmy_xv8i1YoBWJX46dm_a4_9h5oVQFJ2FpENcaQ&amp;amp;oe=6447F80A&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.6435-9/108007983_3332681240109214_6577454660979646202_n.jpg?_nc_cat=108&amp;amp;ccb=1-7&amp;amp;_nc_sid=8bfeb9&amp;amp;_nc_ohc=oPU5GC5b9u8AX9COtQi&amp;amp;_nc_ht=scontent.ftpe8-1.fna&amp;amp;oh=00_AfCIKdpoay8eWR5xIBh7Z7zx_DWTTP0vnZ9CpVFcSHMfTA&amp;amp;oe=6447E9C0&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/110250819_3332681333442538_4718404806071020175_n.jpg?_nc_cat=103&amp;amp;ccb=1-7&amp;amp;_nc_sid=8bfeb9&amp;amp;_nc_ohc=Ds-OvXVbtUMAX8LuYzB&amp;amp;_nc_ht=scontent.ftpe8-2.fna&amp;amp;oh=00_AfCuu6yY8GqqwBDvB99I1C_rUhRCPfaKZDz6YHK6-66euw&amp;amp;oe=6447F713&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>和黑暗精靈跳舞</title>
+        <link>https://JellyfishZero.github.io/DancingWithDarkElf/</link>
+        <pubDate>Mon, 27 Mar 2023 01:00:51 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/DancingWithDarkElf/</guid>
+        <description>&lt;img src="https://i.ytimg.com/vi_webp/XvJMVOHt9CI/sddefault.webp" alt="Featured image of post 和黑暗精靈跳舞" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+&lt;p&gt;　　本作品是大學課程「人工智慧」的期末專題，而人工智慧該門課也成為我人生中唯一期末結算100分的大學課程。&lt;/p&gt;
+&lt;p&gt;　　本作品的主題故事為男主角「子凡」穿梭到異世界後對黑暗精靈村莊的少女一見鍾情，為了把黑暗精靈少女娶回家，必須與她學習黑暗精靈村莊的傳統舞蹈。&lt;/p&gt;
+&lt;p&gt;　　基於上述故事前題，本專題利用Python搭配基因演算法，展示了子凡與黑暗精靈少女學習跳舞的過程。在過程中會發現子凡從不停的跳錯，直到最後會完全與黑暗精靈少女同步，兩人一旦同步便會顯示Success的字體提示。&lt;/p&gt;
+&lt;p&gt;　　而本程式提供的功能：會在Console介面啟動程式後，先產生正確的舞步順序（每次開啟程式時都將隨機產生，黑暗精靈少女的舞步會是與此相同）。接著會開啟子凡學習跳舞的介面，此時上方會顯示第幾次的Generation，每一次的Generation會有10次嘗試(Trying)，舞步會有10步（step，顯示從0~9）。在介面中按下Q會關閉程式，按下W會開啟最高準確度的圖表，按下E會提高畫面刷新次數（提高訓練速度），按下R會降低會預設的畫面刷新次數（用於展示訓練結果）。然後介面中間則有角色的名字，頭像，像素風的角色。兩人的舞步相同時，會露出微笑的表情，子凡跳錯時，兩人則會有遺憾的表情。&lt;/p&gt;
+&lt;h2 id=&#34;影片預覽&#34;&gt;影片預覽&lt;/h2&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/XvJMVOHt9CI&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
         <title>以臉部表情為基之檔案密碼鎖</title>
         <link>https://JellyfishZero.github.io/Facial_Passwords/</link>
         <pubDate>Fri, 24 Mar 2023 23:01:11 +0800</pubDate>
