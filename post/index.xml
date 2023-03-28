@@ -6,7 +6,128 @@
         <description>Recent content in Posts on 海蜇零的水缸</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Mon, 27 Mar 2023 01:53:22 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 Mar 2023 13:13:46 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Unity小實作：PET 4 寵物機</title>
+        <link>https://JellyfishZero.github.io/Unity_PET4_WithDesignPattern/</link>
+        <pubDate>Tue, 28 Mar 2023 13:13:46 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/Unity_PET4_WithDesignPattern/</guid>
+        <description>&lt;img src="https://i.ytimg.com/vi_webp/4ShctYCpjOA/sddefault.webp" alt="Featured image of post Unity小實作：PET 4 寵物機" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+&lt;p&gt;　　本Unity遊戲，是本人經手後第四代的PET寵物機，這次是以養兩個少女，貓與狐，並且結合研究所的設計樣版（Design Pattern）課程的內容，算是PET2的經典重製版。&lt;/p&gt;
+&lt;p&gt;　　遊戲當中利用到的樣板與對應功能如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;State：場景轉換&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Singleton：如遊戲進度、音樂音效控制、場景轉換器等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Template：絕大多數的按鈕方法製作：由於遊戲中的按鈕都需要發出音效，因此我把發出音效當作同樣的功能，做成樣板。此後各個按鈕不同的功能則可以在繼承發出音效功能的同時，另外實作。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Facade：故事場景中，用以使用故事與介面相關等子功能統一整理在一個Class中。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strategy：故事場景中，用於決策要使用那一種對話框方式：螢幕中間顯示字幕或螢幕下半部顯示頭像和文字。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Proxy：遊戲場景(家中、餵食區)中，用以檢查音效、音樂是否已匯入，如果已有匯入，則直接存取現有的資源。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Observer：遊戲場景中，貓和狐狸的功能：發現食物、追尋食物、好感度升降等。其流程都會由一事件觸發後，統一通知一個Manager，並由Manager發出訊息通知有訂閱的物件：調整好感度的UI介面、角色對話、通知有食物被放置等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;　　另外有實作存檔、讀檔的功能，會在玩家的local端建立存檔資料，並可用於程式重起後讀檔。使用的主要作法是將玩家的遊玩資料轉換為Json，存放於Application.persistentDataPath。&lt;/p&gt;
+&lt;h2 id=&#34;影片預覽&#34;&gt;影片預覽&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;整體遊戲內容瀏覽&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/M8TNWYvc1N4&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;小改版(與上面的影片主要差在場景畫面及UI翻新)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/4ShctYCpjOA&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Unity小實作：決戰圖書館</title>
+        <link>https://JellyfishZero.github.io/Unity_Kessen_Library/</link>
+        <pubDate>Tue, 28 Mar 2023 06:42:51 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/Unity_Kessen_Library/</guid>
+        <description>&lt;img src="https://i.ytimg.com/vi_webp/sETvzKWdujg/sddefault.webp" alt="Featured image of post Unity小實作：決戰圖書館" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+&lt;p&gt;　　此Unity遊戲，是跨媒體設計專題的期末作業，製作了一個prototype。該科目期末成績為97分。&lt;/p&gt;
+&lt;p&gt;　　此遊戲的目的是以轉蛋抽卡型的RPG手機遊戲為發想，欲結合圖書資訊系統，鼓勵玩家多借書、多讀書。藉由借書、投搞讀書心得的方式，就可以獲得抽獎卷可以用來抽角色、組隊、冒險。&lt;/p&gt;
+&lt;p&gt;　　在本prototype演示了三個主要的功能：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;是玩家可以透過輸入讀書心得獲得抽獎卷&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;玩家可以觀賞劇情&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;玩家可以利用獲得的抽獎卷抽取角色&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;　　未實作的功能，僅用於介紹整體架構的功能則是冒險和隊伍編組的部分。&lt;/p&gt;
+&lt;h2 id=&#34;影片預覽&#34;&gt;影片預覽&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;抽卡實作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/jLiKeSWRWVI&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;劇情&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/iDHRn7bJ9DI&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;遊戲整體瀏覽（含輸入讀書心得）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/sETvzKWdujg&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
         <title>臉部表情辨識及其在老態預防上的應用</title>
         <link>https://JellyfishZero.github.io/FacialBreakoutClone/</link>
         <pubDate>Mon, 27 Mar 2023 01:53:22 +0800</pubDate>

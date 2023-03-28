@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>轉蛋抽卡遊戲 on 海蜇零的水缸</title>
+        <link>https://JellyfishZero.github.io/tags/%E8%BD%89%E8%9B%8B%E6%8A%BD%E5%8D%A1%E9%81%8A%E6%88%B2/</link>
+        <description>Recent content in 轉蛋抽卡遊戲 on 海蜇零的水缸</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Tue, 28 Mar 2023 06:42:51 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/%E8%BD%89%E8%9B%8B%E6%8A%BD%E5%8D%A1%E9%81%8A%E6%88%B2/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Unity小實作：決戰圖書館</title>
+        <link>https://JellyfishZero.github.io/Unity_Kessen_Library/</link>
+        <pubDate>Tue, 28 Mar 2023 06:42:51 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/Unity_Kessen_Library/</guid>
+        <description>&lt;img src="https://i.ytimg.com/vi_webp/sETvzKWdujg/sddefault.webp" alt="Featured image of post Unity小實作：決戰圖書館" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+&lt;p&gt;　　此Unity遊戲，是跨媒體設計專題的期末作業，製作了一個prototype。該科目期末成績為97分。&lt;/p&gt;
+&lt;p&gt;　　此遊戲的目的是以轉蛋抽卡型的RPG手機遊戲為發想，欲結合圖書資訊系統，鼓勵玩家多借書、多讀書。藉由借書、投搞讀書心得的方式，就可以獲得抽獎卷可以用來抽角色、組隊、冒險。&lt;/p&gt;
+&lt;p&gt;　　在本prototype演示了三個主要的功能：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;是玩家可以透過輸入讀書心得獲得抽獎卷&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;玩家可以觀賞劇情&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;玩家可以利用獲得的抽獎卷抽取角色&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;　　未實作的功能，僅用於介紹整體架構的功能則是冒險和隊伍編組的部分。&lt;/p&gt;
+&lt;h2 id=&#34;影片預覽&#34;&gt;影片預覽&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;抽卡實作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/jLiKeSWRWVI&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;劇情&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/iDHRn7bJ9DI&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;遊戲整體瀏覽（含輸入讀書心得）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/sETvzKWdujg&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        
+    </channel>
+</rss>
