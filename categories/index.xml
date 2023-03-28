@@ -7,12 +7,12 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <lastBuildDate>Tue, 28 Mar 2023 13:13:46 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>C#</title>
-        <link>https://JellyfishZero.github.io/categories/c#/</link>
+        <title>C-Sharp</title>
+        <link>https://JellyfishZero.github.io/categories/c-sharp/</link>
         <pubDate>Tue, 28 Mar 2023 13:13:46 +0800</pubDate>
         
-        <guid>https://JellyfishZero.github.io/categories/c#/</guid>
-        <description></description>
+        <guid>https://JellyfishZero.github.io/categories/c-sharp/</guid>
+        <description>&lt;img src="https://JellyfishZero.github.io/favicon.jpg" alt="Featured image of post C-Sharp" /&gt;</description>
         </item>
         <item>
         <title>Design Pattern</title>
@@ -45,14 +45,6 @@
         
         <guid>https://JellyfishZero.github.io/categories/java/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>C-Sharp</title>
-        <link>https://JellyfishZero.github.io/categories/c-sharp/</link>
-        <pubDate>Wed, 22 Mar 2023 02:59:13 +0800</pubDate>
-        
-        <guid>https://JellyfishZero.github.io/categories/c-sharp/</guid>
-        <description>&lt;img src="https://JellyfishZero.github.io/favicon.jpg" alt="Featured image of post C-Sharp" /&gt;</description>
         </item>
         <item>
         <title>HTML</title>

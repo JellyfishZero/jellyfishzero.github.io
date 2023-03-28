@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>小遊戲 on 海蜇零的水缸</title>
-        <link>https://JellyfishZero.github.io/tags/%E5%B0%8F%E9%81%8A%E6%88%B2/</link>
-        <description>Recent content in 小遊戲 on 海蜇零的水缸</description>
+        <title>PET serise on 海蜇零的水缸</title>
+        <link>https://JellyfishZero.github.io/tags/pet-serise/</link>
+        <description>Recent content in PET serise on 海蜇零的水缸</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Tue, 28 Mar 2023 13:13:46 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/%E5%B0%8F%E9%81%8A%E6%88%B2/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 Mar 2023 13:13:46 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/pet-serise/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Unity小實作：PET 4 Evolution 寵物機</title>
         <link>https://JellyfishZero.github.io/Unity_PET4_WithDesignPattern/</link>
         <pubDate>Tue, 28 Mar 2023 13:13:46 +0800</pubDate>

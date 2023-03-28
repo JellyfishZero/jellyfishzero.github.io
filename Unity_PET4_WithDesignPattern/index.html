@@ -2,16 +2,16 @@
 <html lang="zh-tw" dir="ltr">
     <head><meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='研究所課程「設計樣版 Design Pattern」期末小實作'>
-<title>Unity小實作：PET 4 寵物機</title>
+<title>Unity小實作：PET 4 Evolution 寵物機</title>
 
 <link rel='canonical' href='https://JellyfishZero.github.io/Unity_PET4_WithDesignPattern/'>
 
-<link rel="stylesheet" href="/scss/style.min.8191399262444ab68b72a18c97392f5349be20a1615d77445be51e974c144cff.css"><meta property='og:title' content='Unity小實作：PET 4 寵物機'>
+<link rel="stylesheet" href="/scss/style.min.8191399262444ab68b72a18c97392f5349be20a1615d77445be51e974c144cff.css"><meta property='og:title' content='Unity小實作：PET 4 Evolution 寵物機'>
 <meta property='og:description' content='研究所課程「設計樣版 Design Pattern」期末小實作'>
 <meta property='og:url' content='https://JellyfishZero.github.io/Unity_PET4_WithDesignPattern/'>
 <meta property='og:site_name' content='海蜇零的水缸'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='寵物機' /><meta property='article:tag' content='小遊戲' /><meta property='article:tag' content='設計樣版' /><meta property='article:published_time' content='2023-03-28T13:13:46&#43;08:00'/><meta property='article:modified_time' content='2023-03-28T13:13:46&#43;08:00'/><meta property='og:image' content='https://i.ytimg.com/vi_webp/4ShctYCpjOA/sddefault.webp' />
-<meta name="twitter:title" content="Unity小實作：PET 4 寵物機">
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='寵物機' /><meta property='article:tag' content='小遊戲' /><meta property='article:tag' content='設計樣版' /><meta property='article:tag' content='PET serise' /><meta property='article:published_time' content='2023-03-28T13:13:46&#43;08:00'/><meta property='article:modified_time' content='2023-03-28T13:13:46&#43;08:00'/><meta property='og:image' content='https://i.ytimg.com/vi_webp/4ShctYCpjOA/sddefault.webp' />
+<meta name="twitter:title" content="Unity小實作：PET 4 Evolution 寵物機">
 <meta name="twitter:description" content="研究所課程「設計樣版 Design Pattern」期末小實作"><meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content='https://i.ytimg.com/vi_webp/4ShctYCpjOA/sddefault.webp' />
     <link rel="shortcut icon" href="/favicon2.ico" />
@@ -587,7 +587,7 @@ VDAwOjE4OjEwKzAwOjAwA7T4vAAAAABJRU5ErkJggg==" />
         <div class="article-image">
             <a href="/Unity_PET4_WithDesignPattern/">
                 
-                    <img src="https://i.ytimg.com/vi_webp/4ShctYCpjOA/sddefault.webp" loading="lazy" alt="Featured image of post Unity小實作：PET 4 寵物機" />
+                    <img src="https://i.ytimg.com/vi_webp/4ShctYCpjOA/sddefault.webp" loading="lazy" alt="Featured image of post Unity小實作：PET 4 Evolution 寵物機" />
                 
             </a>
         </div>
@@ -601,8 +601,8 @@ VDAwOjE4OjEwKzAwOjAwA7T4vAAAAABJRU5ErkJggg==" />
                 Unity
             </a>
         
-            <a href="/categories/c#/" >
-                C#
+            <a href="/categories/c-sharp/" style="background-color: #2a9d8f; color: #fff;">
+                C-Sharp
             </a>
         
             <a href="/categories/design-pattern/" >
@@ -614,7 +614,7 @@ VDAwOjE4OjEwKzAwOjAwA7T4vAAAAABJRU5ErkJggg==" />
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/Unity_PET4_WithDesignPattern/">Unity小實作：PET 4 寵物機</a>
+            <a href="/Unity_PET4_WithDesignPattern/">Unity小實作：PET 4 Evolution 寵物機</a>
         </h2>
     
         
@@ -675,16 +675,16 @@ VDAwOjE4OjEwKzAwOjAwA7T4vAAAAABJRU5ErkJggg==" />
 <p>　　遊戲當中利用到的樣板與對應功能如下：</p>
 <ol>
 <li>
-<p>State：場景轉換</p>
+<p>State：Unity中的Scene場景轉換</p>
 </li>
 <li>
-<p>Singleton：如遊戲進度、音樂音效控制、場景轉換器等。</p>
+<p>Singleton：紀錄遊戲進度、音樂音效控制、場景轉換器等。</p>
 </li>
 <li>
 <p>Template：絕大多數的按鈕方法製作：由於遊戲中的按鈕都需要發出音效，因此我把發出音效當作同樣的功能，做成樣板。此後各個按鈕不同的功能則可以在繼承發出音效功能的同時，另外實作。</p>
 </li>
 <li>
-<p>Facade：故事場景中，用以使用故事與介面相關等子功能統一整理在一個Class中。</p>
+<p>Facade：故事場景中，使故事內容讀取與顯示文字介面相關等子功能統一整理在一個Class中，在玩家操做遊戲的過程中，只需按下按鈕就可以執行所有故事場景中須完成的程式。</p>
 </li>
 <li>
 <p>Strategy：故事場景中，用於決策要使用那一種對話框方式：螢幕中間顯示字幕或螢幕下半部顯示頭像和文字。</p>
@@ -696,7 +696,7 @@ VDAwOjE4OjEwKzAwOjAwA7T4vAAAAABJRU5ErkJggg==" />
 <p>Observer：遊戲場景中，貓和狐狸的功能：發現食物、追尋食物、好感度升降等。其流程都會由一事件觸發後，統一通知一個Manager，並由Manager發出訊息通知有訂閱的物件：調整好感度的UI介面、角色對話、通知有食物被放置等。</p>
 </li>
 </ol>
-<p>　　另外有實作存檔、讀檔的功能，會在玩家的local端建立存檔資料，並可用於程式重起後讀檔。使用的主要作法是將玩家的遊玩資料轉換為Json，存放於Application.persistentDataPath。</p>
+<p>　　另外有實作存檔、讀檔的功能，會在玩家的local端建立存檔資料，並可用於程式重起後讀檔。使用的主要作法是將玩家的遊玩資料轉換為Json，存放於Application.persistentDataPath所提供的路徑當中。</p>
 <h2 id="影片預覽">影片預覽</h2>
 <ul>
 <li>整體遊戲內容瀏覽</li>
@@ -736,6 +736,8 @@ VDAwOjE4OjEwKzAwOjAwA7T4vAAAAABJRU5ErkJggg==" />
         
             <a href="/tags/%E8%A8%AD%E8%A8%88%E6%A8%A3%E7%89%88/">設計樣版</a>
         
+            <a href="/tags/pet-serise/">PET serise</a>
+        
     </section>
 
 
@@ -768,6 +770,25 @@ VDAwOjE4OjEwKzAwOjAwA7T4vAAAAABJRU5ErkJggg==" />
             
                 
 <article class="has-image">
+    <a href="/PET-II-Introduction/">
+        
+        
+            <div class="article-image">
+                
+                    <img src="/SomeProblemTitle/title.png" loading="lazy" data-key="" data-hash="/SomeProblemTitle/title.png"/>
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">PET II 寵物機</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
     <a href="/Unity_Kessen_Library/">
         
         
@@ -787,18 +808,71 @@ VDAwOjE4OjEwKzAwOjAwA7T4vAAAAABJRU5ErkJggg==" />
             
                 
 <article class="has-image">
-    <a href="/PET-II-Introduction/">
+    <a href="/PET-III-Intro/">
         
         
             <div class="article-image">
-                
-                    <img src="/SomeProblemTitle/title.png" loading="lazy" data-key="" data-hash="/SomeProblemTitle/title.png"/>
+                <img src="/PET-III-Intro/SignIn.cbda48ba0253502f189e6329384d4ba3_hu95e46ef34b9126f0c18c7c081affada3_151441_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post 放置型手機遊戲－PET III"
+                        
+                        data-hash="md5-y9pIugJTUC8YnmMpOE1Low==">
                 
             </div>
         
 
         <div class="article-details">
-            <h2 class="article-title">PET II 寵物機</h2>
+            <h2 class="article-title">放置型手機遊戲－PET III</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/Semiramis_What_DO_You_Want_To_Eat/">
+        
+        
+            <div class="article-image">
+                <img src="/Semiramis_What_DO_You_Want_To_Eat/Start.c0ddf9177abb278a05ab20de3c7686d3_hua433355c694eb3936404bc5ba8000096_171722_250x150_fill_box_smart1_3.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post 吃飯地點抽選軟體－賽米，這餐吃什麼？"
+                        
+                        data-hash="md5-wN35F3q7J4oFqyDePHaG0w==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">吃飯地點抽選軟體－賽米，這餐吃什麼？</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/CYM_C304_Web/">
+        
+        
+            <div class="article-image">
+                <img src="/CYM_C304_Web/Stroy.55156c7c1a058dbd9ae00c2c6a6f8a97_hu5f8fa704b980b0f8ccef65e736f42004_2385883_250x150_fill_box_smart1_3.PNG" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post CYM C304 of Legend官方網站"
+                        
+                        data-hash="md5-VRVsfBoFjb2a4Awsam&#43;Klw==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">CYM C304 of Legend官方網站</h2>
         </div>
     </a>
 </article>

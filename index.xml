@@ -7,26 +7,26 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <lastBuildDate>Tue, 28 Mar 2023 13:13:46 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Unity小實作：PET 4 寵物機</title>
+        <title>Unity小實作：PET 4 Evolution 寵物機</title>
         <link>https://JellyfishZero.github.io/Unity_PET4_WithDesignPattern/</link>
         <pubDate>Tue, 28 Mar 2023 13:13:46 +0800</pubDate>
         
         <guid>https://JellyfishZero.github.io/Unity_PET4_WithDesignPattern/</guid>
-        <description>&lt;img src="https://i.ytimg.com/vi_webp/4ShctYCpjOA/sddefault.webp" alt="Featured image of post Unity小實作：PET 4 寵物機" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+        <description>&lt;img src="https://i.ytimg.com/vi_webp/4ShctYCpjOA/sddefault.webp" alt="Featured image of post Unity小實作：PET 4 Evolution 寵物機" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
 &lt;p&gt;　　本Unity遊戲，是本人經手後第四代的PET寵物機，這次是以養兩個少女，貓與狐，並且結合研究所的設計樣版（Design Pattern）課程的內容，算是PET2的經典重製版。&lt;/p&gt;
 &lt;p&gt;　　遊戲當中利用到的樣板與對應功能如下：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;State：場景轉換&lt;/p&gt;
+&lt;p&gt;State：Unity中的Scene場景轉換&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Singleton：如遊戲進度、音樂音效控制、場景轉換器等。&lt;/p&gt;
+&lt;p&gt;Singleton：紀錄遊戲進度、音樂音效控制、場景轉換器等。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Template：絕大多數的按鈕方法製作：由於遊戲中的按鈕都需要發出音效，因此我把發出音效當作同樣的功能，做成樣板。此後各個按鈕不同的功能則可以在繼承發出音效功能的同時，另外實作。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Facade：故事場景中，用以使用故事與介面相關等子功能統一整理在一個Class中。&lt;/p&gt;
+&lt;p&gt;Facade：故事場景中，使故事內容讀取與顯示文字介面相關等子功能統一整理在一個Class中，在玩家操做遊戲的過程中，只需按下按鈕就可以執行所有故事場景中須完成的程式。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Strategy：故事場景中，用於決策要使用那一種對話框方式：螢幕中間顯示字幕或螢幕下半部顯示頭像和文字。&lt;/p&gt;
@@ -38,7 +38,7 @@
 &lt;p&gt;Observer：遊戲場景中，貓和狐狸的功能：發現食物、追尋食物、好感度升降等。其流程都會由一事件觸發後，統一通知一個Manager，並由Manager發出訊息通知有訂閱的物件：調整好感度的UI介面、角色對話、通知有食物被放置等。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;　　另外有實作存檔、讀檔的功能，會在玩家的local端建立存檔資料，並可用於程式重起後讀檔。使用的主要作法是將玩家的遊玩資料轉換為Json，存放於Application.persistentDataPath。&lt;/p&gt;
+&lt;p&gt;　　另外有實作存檔、讀檔的功能，會在玩家的local端建立存檔資料，並可用於程式重起後讀檔。使用的主要作法是將玩家的遊玩資料轉換為Json，存放於Application.persistentDataPath所提供的路徑當中。&lt;/p&gt;
 &lt;h2 id=&#34;影片預覽&#34;&gt;影片預覽&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;整體遊戲內容瀏覽&lt;/li&gt;
