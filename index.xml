@@ -142,7 +142,7 @@
         <guid>https://JellyfishZero.github.io/UE4_EyeTrackingBaseball/</guid>
         <description>&lt;img src="https://JellyfishZero.github.io/UE4_EyeTrackingBaseball/title.jpg" alt="Featured image of post UE4：利用VR眼動儀結合棒球打擊練習" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
 &lt;p&gt;　　此作品是我研究所期間，此虛擬實境遊戲是為了要投稿「2022 IIDCI 跨域創新國際設計研討會」為出發點所開發，論文主題是：「透過眼動儀探討虛擬實境中棒球擊球命中率與靜眼期間之關聯性」。&lt;/p&gt;
-&lt;p&gt;　　此作品為我一人製作，包含部分模型的建模：發球機、球棒等，花費時間約兩個月。在虛擬實境場景建築、場景的部分，比照一般常見的棒球場大小，本壘與發球機的位置也比照棒球投手可能的出手距離進行配置。&lt;/p&gt;
+&lt;p&gt;　　此作品為我一人製作，包含部分模型的建模（利用Blender）：發球機、球棒等。在虛擬實境場景建築、場景的部分，比照一般常見的棒球場大小，本壘與發球機的位置也比照棒球投手可能的出手距離進行配置。整體專案開發約兩個月。&lt;/p&gt;
 &lt;p&gt;　　遊戲內大部分個功能依舊是使用藍圖（Blueprint）撰寫，僅有將數據寫入成檔案(CSV)這個功能Unreal Engine 4的藍圖本身似乎沒有，因此我在這裡使用了C++進行撰寫，並且把這個function expose給藍圖使用。而這個作品在製作時面臨最大的問題便是「VR眼動儀的API」和「眼睛追蹤球的時間(靜眼時間)」，在這個作品當中，我使用的是HTC Vive pro eye官方所提供的API，經過了一番研究，我發現其API可以幫助玩家自虛擬實境中的攝影機直接打出射線進行偵測，因此我這邊便利用這個功能去測量玩家盯著球的時間有多長。最後再計算「眼睛追蹤球的時間」佔「球自發球機至本壘區域的時間」比例，由於本作品的球速會自80-130 km/hr之間隨機發出，因每一球自發球機至本壘區域的時間皆不相同，藉以了解玩家在不同的球速下能追蹤球的比例有多高。&lt;/p&gt;
 &lt;p&gt;　　遊戲整體進行流程：玩家戴上VR頭戴顯示器之後，便會直接站立於打擊框格之中，並且這時可依照受試者的慣用手進行左、右打擊位置的調整。發球的時機點將由可由手把或是在電腦旁邊的人員控制，待玩家準備好後再控制發球機進行投球。發球機於運作時，會顯示紅、黃、綠三個燈號，表示倒數計時，每個燈號間隔為1秒，並會發出提示聲響，於綠燈顯示後0.5秒會將球投出。球一旦被受試者擊出後，將於10秒後將球的物件消除，供受試者參考自己擊球的結果；如果球沒被打中的話，則會進入本壘後方區域的瞬間消失。&lt;/p&gt;
 &lt;h2 id=&#34;影片預覽&#34;&gt;影片預覽&lt;/h2&gt;
@@ -512,12 +512,12 @@
 </description>
         </item>
         <item>
-        <title>放置型手機遊戲－PET III</title>
+        <title>PET III 放置型手機遊戲</title>
         <link>https://JellyfishZero.github.io/PET-III-Intro/</link>
         <pubDate>Wed, 22 Mar 2023 03:28:12 +0800</pubDate>
         
         <guid>https://JellyfishZero.github.io/PET-III-Intro/</guid>
-        <description>&lt;img src="https://JellyfishZero.github.io/PET-III-Intro/SignIn.jpg" alt="Featured image of post 放置型手機遊戲－PET III" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+        <description>&lt;img src="https://JellyfishZero.github.io/PET-III-Intro/SignIn.jpg" alt="Featured image of post PET III 放置型手機遊戲" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
 &lt;p&gt;　　本作品是「行動裝置程式設計」課程的期末作品，使用Android Studio製作，並與其他兩位同學合作完成。承襲自上一個「PET II」的作品概念，劇情有所延續，主角又撿到了一位狐狸娘，但因為主角養不起這些女孩子們，所以她們得開始工作自己養活自己，於是她們決定到屏東大學地下城打怪賺錢。因此這次並不是寵物機遊戲，而是放置型的RPG遊戲。此課程的期末成績，獲得94分的評價。&lt;/p&gt;
 &lt;p&gt;　　作品的運作機制是利用手機的NFC功能偵測卡片(例如：悠遊卡)的卡號，依據其偵測到的卡號判斷資料庫中是否有存在著已註冊的卡號，若該卡尚未註冊，則會註冊一隻新的帳號，讓使用者以卡號作為帳號遊玩。相反的，若是已註冊的卡號則會讀取至當前的進度。&lt;/p&gt;
 &lt;p&gt;　　另外在遊戲的闖關機制，則是依據貓娘和狐狸娘的等級總和做為關卡攻略的成功率依據。而為提高兩位角色的等級，玩家就必須要從低等的關卡開始攻略，藉此賺錢提高等級，才能攻克更高難度的關卡。由於遊戲全採放置遊玩模式，每個關卡都有固定的放置時間，冒險時間結束後，玩家只要用卡片登入遊戲就可以知道闖關的結果。若成功則獲得金錢獎勵，失敗則不給予任何獎勵。&lt;/p&gt;
@@ -1005,7 +1005,7 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;寵物飼養機－PET II&lt;/td&gt;
+&lt;td&gt;PET II 寵物飼養機&lt;/td&gt;
 &lt;td&gt;C#&lt;/td&gt;
 &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/PET-II-Introduction&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -1020,7 +1020,7 @@
 &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/Semiramis_What_DO_You_Want_To_Eat&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;放置型手機遊戲－PET III&lt;/td&gt;
+&lt;td&gt;PET III 放置型手機遊戲&lt;/td&gt;
 &lt;td&gt;Java&lt;/td&gt;
 &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/PET-III-Intro&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -1038,6 +1038,31 @@
 &lt;td&gt;臉部表情辨識及其在老態預防上的應用&lt;/td&gt;
 &lt;td&gt;Python&lt;/td&gt;
 &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/FacialBreakoutClone&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Unity小實作：決戰圖書館&lt;/td&gt;
+&lt;td&gt;Unity、C#&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/Unity_Kessen_Library&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Unity：PET 4 Evolution 寵物機&lt;/td&gt;
+&lt;td&gt;Unity、C#&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/Unity_PET4_WithDesignPattern&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;UE4小實作：毛茸茸RPG Prototype&lt;/td&gt;
+&lt;td&gt;Unreal Engine 4&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/UE4_mofuRPG&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;UE4：利用VR眼動儀結合棒球打擊練習&lt;/td&gt;
+&lt;td&gt;Unreal Engine 4、C++&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/UE4_EyeTrackingBaseball&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Unity：多憶點&lt;/td&gt;
+&lt;td&gt;Unity、C#&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://JellyfishZero.github.io/Unity_reminiscence_therapy&#34; &gt;按我前往&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

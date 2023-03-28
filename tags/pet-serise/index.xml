@@ -67,12 +67,12 @@
 </description>
         </item>
         <item>
-        <title>放置型手機遊戲－PET III</title>
+        <title>PET III 放置型手機遊戲</title>
         <link>https://JellyfishZero.github.io/PET-III-Intro/</link>
         <pubDate>Wed, 22 Mar 2023 03:28:12 +0800</pubDate>
         
         <guid>https://JellyfishZero.github.io/PET-III-Intro/</guid>
-        <description>&lt;img src="https://JellyfishZero.github.io/PET-III-Intro/SignIn.jpg" alt="Featured image of post 放置型手機遊戲－PET III" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+        <description>&lt;img src="https://JellyfishZero.github.io/PET-III-Intro/SignIn.jpg" alt="Featured image of post PET III 放置型手機遊戲" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
 &lt;p&gt;　　本作品是「行動裝置程式設計」課程的期末作品，使用Android Studio製作，並與其他兩位同學合作完成。承襲自上一個「PET II」的作品概念，劇情有所延續，主角又撿到了一位狐狸娘，但因為主角養不起這些女孩子們，所以她們得開始工作自己養活自己，於是她們決定到屏東大學地下城打怪賺錢。因此這次並不是寵物機遊戲，而是放置型的RPG遊戲。此課程的期末成績，獲得94分的評價。&lt;/p&gt;
 &lt;p&gt;　　作品的運作機制是利用手機的NFC功能偵測卡片(例如：悠遊卡)的卡號，依據其偵測到的卡號判斷資料庫中是否有存在著已註冊的卡號，若該卡尚未註冊，則會註冊一隻新的帳號，讓使用者以卡號作為帳號遊玩。相反的，若是已註冊的卡號則會讀取至當前的進度。&lt;/p&gt;
 &lt;p&gt;　　另外在遊戲的闖關機制，則是依據貓娘和狐狸娘的等級總和做為關卡攻略的成功率依據。而為提高兩位角色的等級，玩家就必須要從低等的關卡開始攻略，藉此賺錢提高等級，才能攻克更高難度的關卡。由於遊戲全採放置遊玩模式，每個關卡都有固定的放置時間，冒險時間結束後，玩家只要用卡片登入遊戲就可以知道闖關的結果。若成功則獲得金錢獎勵，失敗則不給予任何獎勵。&lt;/p&gt;
