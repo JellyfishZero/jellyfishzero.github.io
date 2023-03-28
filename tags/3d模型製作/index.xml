@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>3D模型製作 on 海蜇零的水缸</title>
+        <link>https://JellyfishZero.github.io/tags/3d%E6%A8%A1%E5%9E%8B%E8%A3%BD%E4%BD%9C/</link>
+        <description>Recent content in 3D模型製作 on 海蜇零的水缸</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Tue, 28 Mar 2023 18:38:06 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/3d%E6%A8%A1%E5%9E%8B%E8%A3%BD%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Unity：多憶點</title>
+        <link>https://JellyfishZero.github.io/Unity_reminiscence_therapy/</link>
+        <pubDate>Tue, 28 Mar 2023 18:38:06 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/Unity_reminiscence_therapy/</guid>
+        <description>&lt;img src="https://JellyfishZero.github.io/Unity_reminiscence_therapy/title.jpg" alt="Featured image of post Unity：多憶點" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+&lt;p&gt;　　此專案「多憶點」是屬於國立彰化師範大學，資訊管理學系　吳佩芬老師　創新數位媒體整合設計實驗室的作品，此專案並非由我一人從頭做起。當時，為了撰寫碩士論文，我承接了由實驗室學長們所完成的兩份專案：一份專案為懷舊環境體驗，另一份專案為紅龜糕製作體驗。這兩份專案皆是為了研究虛擬實境在失智患者身上的應用進行設計，因此為方便視情況使用兩專案的內容故進行合併，使其可透過同一介面。（而我的碩士論文主要使用的內容是「懷舊環境體驗」的部分，&lt;a class=&#34;link&#34; href=&#34;https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&amp;amp;s=id=%22110NCUE0620009%22.&amp;amp;searchmode=basic&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;碩論：透過知覺品質、知覺價值與行為意圖探討適合失智症患者之虛擬實境設計&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;　　我在這份專案上的貢獻，主要有以下幾點：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;整併兩份專案，使兩個專案的玩家操作方式統一，將VR手把的互動按鍵，皆改成VR手把的圓盤按鍵。這是個大工程，原先「懷舊環境體驗」的專案中，皆是透過Unity及Vive的API套件進行物件拾取，使用板機鍵長壓。但先前的實驗發現這個操作難度對於失智患或輕度認知障礙者來說有點難，並且VR手把的圓盤鍵相較於板機鍵對他們來說似乎更直覺，因此我們改成使用板機鍵，搭配點擊一下板機鍵拾取物件，再點擊一下放開物件，這個部分的程式皆是後來有我自己撰寫。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在「懷舊環境體驗」的功能，添加不需要VR手把互動的「非互動模式(我的論文中稱其為VR_B模式)」，而原先需要玩家使用VR手把操作的模式則為「互動模式(我的論文中稱為VR_I模式)」。這個部分的修改幅度也是蠻大的：我先複製出一份懷舊環境體驗的Scene，然後然後把原先需由使用者操作VR手把互動的效果全數移除，改由鍵盤操作。在這個模式下VR使用者只需瀏覽場景，並且口頭回答問題，觀察環境（回答看到的景物等），遊戲操作的部分由實驗人員(操作鍵盤的人)幫忙。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;　　順帶一題，這也是我這次論文的主題，為的便是比較哪一種模式是比較適合失智患者的。因為我的想法是讓失智患者體驗VR時，他們如果還須學習VR手把的操作負擔會不會太大，導致他們沒有辦法真正融入VR。最後實驗的結果顯示，實驗結果顯示輕度失智患者對於兩模式的喜好差異不大，但患者們偏好VR_I（互動模式）。但另外，也顯示出VR_B（非互動模式）的情況下他們似乎比較好理解。因此結論上來說：VR_I須注意操作及關卡學習難度，雖然失智患者覺得比較有趣，但理解遊戲時其實會發生困難，VR_B要提高內容的豐富程度，因為失去了自己操作VR手把的過程，僅口頭回答的情況下跟系統互動較少，可能會失去部分樂趣，因此這種情況可能就要透過遊戲或場景景色等內容，增加樂趣。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;修改文字提示的內容，令遊戲中的使用者提示更加明顯易懂，了解接下來會發生什麼事。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在「懷舊環境體驗」的兩個模式中皆添加表現紀錄的功能，紀錄使用者遊玩小遊戲時的表現（答錯次數和花費時間），匯出為CSV檔用於統計分析。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;　　其他我在該專案的貢獻：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;在「懷舊環境體驗」，利用Shader Graph添加電視機的動態效果，模仿早期電視的雜訊（如下面的影片預覽所示）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在「懷舊環境體驗」中，添加物件位置還原的功能，先前學長利用該專案做實驗的時候，有些患者對於把東西弄倒會很在意。所以我添加了按下鍵盤按鍵將物件擺回原位的功能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在「紅龜糕製作」的部分，增加控制玩家位置的程式，因原先該專案的設計，玩家位置的移動幅度很大，有時候因為VR定位的關係回難以掌控玩家在虛擬環境中的位置。因此，我撰寫了可以在遊戲時實中，用鍵盤調整玩家在虛擬實境中的位置，讓實驗人員在操作時發現玩家位置偏移太大的時，可以透過鍵盤進行微調。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在「紅龜糕製作」的專案中，有部分的模型是當初學長在製作這個專案時，委由我製作的，如紅龜糕的麵團、場景中的麵粉袋、煮紅龜糕的鍋子、花生粉等靜態模型是由我透過當初正在學習中的Blender做的喔！&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;影片預覽&#34;&gt;影片預覽&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;「懷舊環境體驗」兩種遊戲模式比較影片&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/8EYWCdEolic&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「懷舊環境體驗」懷舊電視機雜訊效果(Shader Graph)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/sGV_dwsh7wU&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;圖片預覽&#34;&gt;圖片預覽&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;多憶點，標題畫面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://JellyfishZero.github.io/Unity_reminiscence_therapy/title.jpg&#34;
+	width=&#34;1919&#34;
+	height=&#34;906&#34;
+	srcset=&#34;https://JellyfishZero.github.io/Unity_reminiscence_therapy/title_hu3016fc5fec35be31cd5fd9ae69c7ebe9_264561_480x0_resize_q75_box.jpg 480w, https://JellyfishZero.github.io/Unity_reminiscence_therapy/title_hu3016fc5fec35be31cd5fd9ae69c7ebe9_264561_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;211&#34;
+		data-flex-basis=&#34;508px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「懷舊環境體驗」問答遊戲&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://JellyfishZero.github.io/Unity_reminiscence_therapy/scene01.jpg&#34;
+	width=&#34;1917&#34;
+	height=&#34;991&#34;
+	srcset=&#34;https://JellyfishZero.github.io/Unity_reminiscence_therapy/scene01_hua77aae275f747404501514b19dfd12a5_276475_480x0_resize_q75_box.jpg 480w, https://JellyfishZero.github.io/Unity_reminiscence_therapy/scene01_hua77aae275f747404501514b19dfd12a5_276475_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;193&#34;
+		data-flex-basis=&#34;464px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「紅龜糕製作」製作場景：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://JellyfishZero.github.io/Unity_reminiscence_therapy/RedCake.jpg&#34;
+	width=&#34;1305&#34;
+	height=&#34;691&#34;
+	srcset=&#34;https://JellyfishZero.github.io/Unity_reminiscence_therapy/RedCake_hue7fabd39a7637614deb0e8b5636b33a8_145167_480x0_resize_q75_box.jpg 480w, https://JellyfishZero.github.io/Unity_reminiscence_therapy/RedCake_hue7fabd39a7637614deb0e8b5636b33a8_145167_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;188&#34;
+		data-flex-basis=&#34;453px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;*「紅龜糕製作」製作場景中，我製作的3D模型之一，麵粉袋：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://JellyfishZero.github.io/Unity_reminiscence_therapy/MyModel.jpg&#34;
+	width=&#34;853&#34;
+	height=&#34;638&#34;
+	srcset=&#34;https://JellyfishZero.github.io/Unity_reminiscence_therapy/MyModel_huac77e05b5b8e2599bcf6912088de5e46_76944_480x0_resize_q75_box.jpg 480w, https://JellyfishZero.github.io/Unity_reminiscence_therapy/MyModel_huac77e05b5b8e2599bcf6912088de5e46_76944_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

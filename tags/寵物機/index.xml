@@ -7,13 +7,13 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <lastBuildDate>Tue, 28 Mar 2023 13:13:46 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/%E5%AF%B5%E7%89%A9%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Unity小實作：PET 4 Evolution 寵物機</title>
+        <title>Unity：PET 4 Evolution 寵物機</title>
         <link>https://JellyfishZero.github.io/Unity_PET4_WithDesignPattern/</link>
         <pubDate>Tue, 28 Mar 2023 13:13:46 +0800</pubDate>
         
         <guid>https://JellyfishZero.github.io/Unity_PET4_WithDesignPattern/</guid>
-        <description>&lt;img src="https://i.ytimg.com/vi_webp/4ShctYCpjOA/sddefault.webp" alt="Featured image of post Unity小實作：PET 4 Evolution 寵物機" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
-&lt;p&gt;　　本Unity遊戲，是本人經手後第四代的PET寵物機，這次是以養兩個少女，貓與狐，並且結合研究所的設計樣版（Design Pattern）課程的內容，算是PET2的經典重製版。&lt;/p&gt;
+        <description>&lt;img src="https://i.ytimg.com/vi_webp/4ShctYCpjOA/sddefault.webp" alt="Featured image of post Unity：PET 4 Evolution 寵物機" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+&lt;p&gt;　　本Unity遊戲，是由我經手後第四代的PET寵物機，這次是以養兩個少女，貓與狐，並且結合研究所的設計樣版（Design Pattern）課程的內容，算是PET2的經典重製版。設計樣版的期末成績獲得94分。&lt;/p&gt;
 &lt;p&gt;　　遊戲當中利用到的樣板與對應功能如下：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;

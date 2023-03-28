@@ -6,7 +6,43 @@
         <description>Recent content in prototype on 海蜇零的水缸</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Tue, 28 Mar 2023 06:42:51 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/prototype/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 Mar 2023 15:49:36 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/tags/prototype/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>UE4小實作：毛茸茸RPG Prototype</title>
+        <link>https://JellyfishZero.github.io/UE4_mofuRPG/</link>
+        <pubDate>Tue, 28 Mar 2023 15:49:36 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/UE4_mofuRPG/</guid>
+        <description>&lt;img src="https://i.ytimg.com/vi_webp/iMWASoOujMw/sddefault.webp" alt="Featured image of post UE4小實作：毛茸茸RPG Prototype" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
+&lt;p&gt;　　此作品是研究所課程「高等遊戲設計專題」的期末實作，這是一組4人的實作。我負責的內容為整體遊戲的程式設計（全部的blueprint），場景建置、角色建模(那隻雙足行走的狐狸)、骨架綁定、動作則由其他三人負責，此課程期末成績結算獲得97分。&lt;/p&gt;
+&lt;p&gt;　　此遊戲主要是用以實作一款回合制的RPG的prototype，並採用傳統的雷步遇敵方式。因此角色在大地圖中行走時會記錄移動的距離，到達特定距離就會進入戰鬥畫面。在此prototype中僅提供攻擊與逃跑的指令，並以紅色箭頭只表示角色攻擊的對象，並提供戰鬥資訊的Log，戰鬥後也可以看見角色等級、生命值、經驗值等數值增減。&lt;/p&gt;
+&lt;h2 id=&#34;影片預覽&#34;&gt;影片預覽&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;遊戲整體瀏覽&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/iMWASoOujMw&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;逃跑功能展示與我方隊伍全滅展示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/XZmkk6WBkfk&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
         <title>Unity小實作：決戰圖書館</title>
         <link>https://JellyfishZero.github.io/Unity_Kessen_Library/</link>
         <pubDate>Tue, 28 Mar 2023 06:42:51 +0800</pubDate>
