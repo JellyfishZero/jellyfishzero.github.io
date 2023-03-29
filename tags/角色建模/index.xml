@@ -18,7 +18,7 @@
 &lt;h2 id=&#34;影片預覽&#34;&gt;影片預覽&lt;/h2&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/https://youtu.be/Ft_oTdgGiHc&#34; 
+            src=&#34;https://www.youtube.com/embed/Ft_oTdgGiHc&#34; 
             allowfullscreen 
             title=&#34;YouTube Video&#34;
     &gt;
