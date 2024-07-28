@@ -13,13 +13,18 @@
         
         <guid>https://JellyfishZero.github.io/ProjectD_DodgePTs/</guid>
         <description>&lt;img src="https://JellyfishZero.github.io/ProjectD_DodgePTs/Title.png" alt="Featured image of post 遊戲功能原型：閃避與子彈時間" /&gt;&lt;h2 id=&#34;內容介紹&#34;&gt;內容介紹&lt;/h2&gt;
-&lt;p&gt;規則說明：
-目前精準迴避的規則是「在以角色為中心半徑6.5公尺內，有任何敵人的子彈」的情況下，按下「迴避」就會觸發。
-「迴避」後於原地留下角色外型的粒子效果。&lt;/p&gt;
-&lt;p&gt;操作說明：
-WASD 操作角色移動方向(走路)。
-Shift短按+WASD 方向進行迴避，並位移一小段距離。若直接短按Shift 則角色會後撤進行迴避。
-Shift長按+WASD 讓角色跑步。&lt;/p&gt;
+&lt;h3 id=&#34;規則說明&#34;&gt;規則說明&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;目前精準迴避的規則是「在以角色為中心半徑6.5公尺內，有任何敵人的子彈」的情況下，按下「迴避」就會觸發。&lt;/li&gt;
+&lt;li&gt;「迴避」後於原地留下角色外型的粒子效果。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;操作說明&#34;&gt;操作說明&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;WASD 操作角色移動方向(走路)。&lt;/li&gt;
+&lt;li&gt;Shift短按+WASD 方向進行迴避，並位移一小段距離。&lt;/li&gt;
+&lt;li&gt;若直接短按Shift 則角色會後撤，並進行迴避。&lt;/li&gt;
+&lt;li&gt;Shift長按+WASD 讓角色跑步。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;影片預覽&#34;&gt;影片預覽&lt;/h2&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe loading=&#34;lazy&#34; 
