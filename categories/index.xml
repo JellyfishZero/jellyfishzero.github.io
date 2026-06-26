@@ -6,7 +6,23 @@
         <description>Recent content in Categories on 海蜇零的水缸</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Sun, 28 Jul 2024 01:31:04 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 26 Jun 2026 15:23:17 +0800</lastBuildDate><atom:link href="https://JellyfishZero.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>C-Sharp</title>
+        <link>https://JellyfishZero.github.io/categories/c-sharp/</link>
+        <pubDate>Fri, 26 Jun 2026 15:23:17 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/categories/c-sharp/</guid>
+        <description>&lt;img src="https://JellyfishZero.github.io/categories/c-sharp/c-sharp.svg" alt="Featured image of post C-Sharp" /&gt;</description>
+        </item>
+        <item>
+        <title>WPF</title>
+        <link>https://JellyfishZero.github.io/categories/wpf/</link>
+        <pubDate>Fri, 26 Jun 2026 15:23:17 +0800</pubDate>
+        
+        <guid>https://JellyfishZero.github.io/categories/wpf/</guid>
+        <description>&lt;img src="https://JellyfishZero.github.io/categories/wpf/WPF_C-Sharp_Icon.png" alt="Featured image of post WPF" /&gt;</description>
+        </item>
+        <item>
         <title>C plus plus</title>
         <link>https://JellyfishZero.github.io/categories/c-plus-plus/</link>
         <pubDate>Sun, 28 Jul 2024 01:31:04 +0800</pubDate>
@@ -29,14 +45,6 @@
         
         <guid>https://JellyfishZero.github.io/categories/blender/</guid>
         <description>&lt;img src="https://JellyfishZero.github.io/categories/blender/Blender_logo_no_text.png" alt="Featured image of post Blender" /&gt;</description>
-        </item>
-        <item>
-        <title>C-Sharp</title>
-        <link>https://JellyfishZero.github.io/categories/c-sharp/</link>
-        <pubDate>Tue, 28 Mar 2023 13:13:46 +0800</pubDate>
-        
-        <guid>https://JellyfishZero.github.io/categories/c-sharp/</guid>
-        <description>&lt;img src="https://JellyfishZero.github.io/categories/c-sharp/c-sharp.svg" alt="Featured image of post C-Sharp" /&gt;</description>
         </item>
         <item>
         <title>Unity</title>
